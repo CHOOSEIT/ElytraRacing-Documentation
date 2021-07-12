@@ -9,10 +9,10 @@ description: Here you will learn how to install the plugin correctly on your ser
 #### 1\) Server software
 
 {% hint style="warning" %}
-We recommend to use Spigot or Paper, other server software haven't been test yet.
+We recommend to use Spigot or Paper \(Forks of Spigot\), other server software haven't been test yet.
 {% endhint %}
 
-Supported versions: 1.9.2; 1.9.4; 1.10; 1.10.2; 1.11; 1.11.1; 1.11.2; 1.12; 1.12.1; 1.12.2; 1.13; 1.13.1; 1.13.2; 1.14; 1.14.1; 1.14.2; 1.14.3; 1.14.4; 1.15; 1.15.1; 1.15.2; 1.16.1; 1.16.2; 1.16.3, 1.16.4
+Supported versions: 1.9.2 to 1.17.1
 
 {% hint style="danger" %}
 Not every system are available for every versions
@@ -26,7 +26,7 @@ Not every system are available for every versions
 {% hint style="info" %}
 This dependency is optional.
 
-If you want to extracts variables from ElytraRacing and show them though another plugin you need to install PlaceholderAPI on your server.
+If you want to extracts variables from ElytraRacing and show them through another plugin you need to install PlaceholderAPI on your server.
 
 [https://www.spigotmc.org/resources/placeholderapi.6245/](https://www.spigotmc.org/resources/placeholderapi.6245/)
 {% endhint %}
@@ -56,7 +56,7 @@ Killing the process which maintains your server open while a game of ElytraRacin
 ## Update ElytraRacing
 
 {% hint style="danger" %}
-To update the plugin on your server we recommand to stop your server, replace the plugin ElytraRacing with the new version and restart the server
+To update the plugin on your server we recommend to stop your server, replace the plugin ElytraRacing with the new version and restart the server
 {% endhint %}
 
 

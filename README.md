@@ -48,11 +48,5 @@ My discord: CHOOSEIT\#6056
 
 Don't forget to follow me on Twitter: [https://twitter.com/CHOOSEITDEV](https://twitter.com/CHOOSEITDEV)
 
-## Documentation
-
-{% hint style="success" %}
-This documentation is under construction, I will add more information as we go along.
-{% endhint %}
-
 
 
