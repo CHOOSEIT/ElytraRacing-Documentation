@@ -8,43 +8,14 @@ description: Here you will see every information about the command "/ergames"
 Permission: elytraracing.admin
 {% endhint %}
 
-## Arguments
+Required argument : \[\]  
+Optional argument : &lt;&gt;
 
-### Add
-
-{% hint style="info" %}
-"/ergames add"
-
-Add blank map in the configuration file
-{% endhint %}
-
-### List
-
-{% hint style="info" %}
-"/ergames list"
-
-Display the list of autogames
-{% endhint %}
-
-### Set
-
-{% hint style="info" %}
-"/ergames set &lt;autogames\_name&gt; &lt;on/off**\***&gt;
-
-Enable or disable an autogame
-{% endhint %}
-
-{% hint style="warning" %}
-\*The autogame will stop after the end of the game and never recreate until your reenable it.
-{% endhint %}
-
-### Setqueue
-
-{% hint style="info" %}
-"/ergames setqueue &lt;queue\_name&gt; &lt;on/off&gt;
-
-Enable or disable a queue
-{% endhint %}
-
-
+| Argument | Description |
+| :--- | :--- |
+| add \[name\] | Create a blank |
+| list  | List all autogame |
+| set \[autogame\] \[on/off\] | Enable or disable an autogame |
+| setqueue \[queue\] \[on/off\] | Enable or disable a queue |
+| reload | Reload Autogames.json file |
 

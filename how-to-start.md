@@ -34,9 +34,10 @@ If you want to extracts variables from ElytraRacing and show them through anothe
 #### 3\) Support
 
 {% hint style="success" %}
-If you need any more informations or in case of errors/problems do not hesitate to contact me
+If you need any more informations or in case of errors/problems do not hesitate to contact me through my discord.
+{% endhint %}
 
-* Discord: CHOOSEIT\#6056
+{% hint style="success" %}
 * Twitter: [https://twitter.com/CHOOSEITDEV](https://twitter.com/CHOOSEITDEV)
 * Talk with the community
 {% endhint %}
@@ -50,7 +51,7 @@ To install the plugin on your server, place ElytraRacing in your plugin folder a
 ## Important information
 
 {% hint style="danger" %}
-Killing the process which maintains your server open while a game of ElytraRacing may cause issues with inventories of players that are in these games as a inventory clear
+Killing the process which maintains your server open while a game of ElytraRacing may cause issues with inventories of players that are in these games as an inventory clear
 {% endhint %}
 
 ## Update ElytraRacing
@@ -58,6 +59,8 @@ Killing the process which maintains your server open while a game of ElytraRacin
 {% hint style="danger" %}
 To update the plugin on your server we recommend to stop your server, replace the plugin ElytraRacing with the new version and restart the server
 {% endhint %}
+
+
 
 
 

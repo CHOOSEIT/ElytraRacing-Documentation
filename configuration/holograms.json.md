@@ -10,6 +10,7 @@ description: Here you will learn everything about the Holograms.json file
 | world | World's name |
 | hologram\_type | Type of the hologram |
 | option\_map | Map's name associated to the hologram, **null** if not required |
+| name | Hologram's name |
 
 {% hint style="info" %}
 Personal holograms are holograms that are differents for each players

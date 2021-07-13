@@ -34,4 +34,5 @@ Setting the name of a game with **§** makes the game impossible to be joined wi
 | randomMapSorting | Enable or disable random choosing map for the map list |
 | enabled | Enable or disable autogame \(in game: [ergames set](https://chooseit.gitbook.io/elytraracing/commands/command-ergames#set)\) |
 | queue | Queue that the autogame belongs to  |
+| permission | Permission to join the game |
 

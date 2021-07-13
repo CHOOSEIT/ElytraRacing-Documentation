@@ -1,0 +1,24 @@
+---
+description: Here you will see every information about the command "/erconfig"
+---
+
+# Command: Erconfig
+
+{% hint style="info" %}
+Permission: elytraracing.admin
+{% endhint %}
+
+Required argument : \[\]  
+Optional argument : &lt;&gt;
+
+| Argument | Description |
+| :--- | :--- |
+| setitem \[1CP\_BACK, 2CP\_BACK. RESTART, DNF, BED, SPEC, CUSTOM, HOST\] | Define custom items |
+| reload | Reload Config.json file |
+| holograms config &lt;hologram&gt; | Hologram configuration |
+| holograms setname \[hologram\] \[new\_name\] | Change name of a hologram |
+| holograms setmap \[hologram\] \[map\] | Change map associated to a hologram |
+| gmi | Get items to modify objects of a map |
+| lprecision \[precision\] | Modify location precision |
+| dprecision \[precision\] | Modify degree precision |
+

@@ -37,16 +37,31 @@ You will see that with a little bit of necessary configuration, you will play ga
 * **/erhost** \(elytraracing.host\) : Allows you to host a game.
 * **/er** \(no-permission player command\) : Allows players to join and leave a game.
 * **/ergames** \(elytraracing.admin\) : Allows you to configure and create autogames server.
+* **/erconfig** \(elytraracing.admin\) : Allows you to configure holograms and items.
 
-## Discuss with the community
+### Important information
+
+| Feature | Specific version | Information |
+| :--- | :--- | :--- |
+| Fireworks in podium | 1.10+ |  |
+| Holograms | 1.10+ |  |
+| Replay system |  | This system is a bonus feature. This system is not perfect ! |
+
+If there is an error in the documentation send me a message on my discord below please.
+
+## Discuss with the community and ask questions
+
+
 
 {% embed url="https://discord.com/invite/zBuvh7DctP" %}
 
+## **Future**
 
+I am going to have less and less time to update/fix ElytraRacing. I decided to stop the project here: 
+
+**What it means ?** I will continue to reply to questions and fix issues, but I will be less active, and I won't make big updates for ElytraRacing anymore**.**
 
 ## Contact
-
-My discord: CHOOSEIT\#6056
 
 Don't forget to follow me on Twitter: [https://twitter.com/CHOOSEITDEV](https://twitter.com/CHOOSEITDEV)
 

@@ -43,4 +43,5 @@ Not every plugins are compatible with PlaceholderAPI
 | **elytraracing\_&lt;player&gt;\_&lt;map&gt;\_favorite\_ranking** | Get the ranking of the player on a map |
 | **elytraracing\_&lt;player&gt;\_&lt;map&gt;\_favorite\_playertime** | Get the time of the player on a map |
 | **elytraracing\_&lt;player&gt;\_&lt;map&gt;\_favorite\_name** | Get the name of a map |
+| **elytraracing\_lastgame\_&lt;rank&gt;\_username** | Get player's username per rank of the last game played |
 
