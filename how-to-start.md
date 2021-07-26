@@ -10,6 +10,12 @@ description: Here you will learn how to install the plugin correctly on your ser
 
 {% hint style="warning" %}
 We recommend to use Spigot or Paper \(Forks of Spigot\), other server software haven't been test yet.
+
+Java flag recommended:  to use symbols for map difficulty for example
+
+```text
+-Dfile.encoding=utf-8
+```
 {% endhint %}
 
 Supported versions: 1.9.2 to 1.17.1
