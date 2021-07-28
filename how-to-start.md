@@ -37,7 +37,13 @@ If you want to extracts variables from ElytraRacing and show them through anothe
 [https://www.spigotmc.org/resources/placeholderapi.6245/](https://www.spigotmc.org/resources/placeholderapi.6245/)
 {% endhint %}
 
-#### 3\) Support
+#### 3\) Worlds
+
+{% hint style="info" %}
+If you are using multiples worlds for the plugin, make sure that each of the worlds are loaded. It can cause issues.
+{% endhint %}
+
+#### 4\) Support
 
 {% hint style="success" %}
 If you need any more informations or in case of errors/problems do not hesitate to contact me through my discord.
