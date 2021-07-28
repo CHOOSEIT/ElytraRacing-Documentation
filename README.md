@@ -63,8 +63,6 @@ If there is an error in the documentation send me a message on my discord below 
 
 ## Discuss with the community and ask questions
 
-
-
 {% embed url="https://discord.com/invite/zBuvh7DctP" %}
 
 ## **Future**
