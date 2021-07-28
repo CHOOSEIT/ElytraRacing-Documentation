@@ -16,6 +16,10 @@ Exemple: %elytraracing\_self\_playedracemode_%_
 Not every plugins are compatible with PlaceholderAPI
 {% endhint %}
 
+{% hint style="info" %}
+ElytraRacing don't support placeholders in its messages.
+{% endhint %}
+
 {% hint style="success" %}
 **&lt;player&gt;** argument must be replaced by:
 
