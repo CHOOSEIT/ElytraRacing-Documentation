@@ -47,14 +47,6 @@ You will see that with a little bit of necessary configuration, you will play ga
 | Holograms | 1.10+ |  |
 | Replay system |  | This system is a bonus feature. This system is not perfect ! |
 
-{% hint style="danger" %}
-ElytraRacing don't provide a **BungeeCord** mode, but this mode might appear in the distant future \(months from now\). 
-{% endhint %}
-
-{% hint style="success" %}
-Instead of the **BungeeCord** mode you can already run several games **on the same map.**
-{% endhint %}
-
 {% hint style="warning" %}
 A player who has left a started game can no longer join it.
 {% endhint %}
