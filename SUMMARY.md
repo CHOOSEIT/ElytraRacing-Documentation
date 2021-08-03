@@ -30,6 +30,7 @@
   * [How to host a game](tutorials/create-game/how-to-host-a-game.md)
   * [How to use AutoGames](tutorials/create-game/how-to-use-autogames.md)
 * [How to use signs](tutorials/how-to-use-signs.md)
+* ["OneGame" server](tutorials/onegame-server.md)
 
 ## Dependencies
 
