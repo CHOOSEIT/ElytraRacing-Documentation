@@ -18,6 +18,8 @@ Not every plugins are compatible with PlaceholderAPI
 
 {% hint style="info" %}
 ElytraRacing don't support placeholders in its messages.
+
+ElytraRacing support placeholders in its scoreboards.
 {% endhint %}
 
 {% hint style="success" %}

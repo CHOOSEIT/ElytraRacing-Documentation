@@ -18,6 +18,7 @@
 * [Config.json](configuration/config.json.md)
 * [Autogames.json](configuration/autogames.json.md)
 * [Holograms.json](configuration/holograms.json.md)
+* [Scoreboard.json](configuration/scoreboard.json.md)
 * [Map.json](configuration/map.json/README.md)
   * [Checkpoint / End](configuration/map.json/checkpoint-end.md)
   * [Additional Object](configuration/map.json/additional-object.md)
