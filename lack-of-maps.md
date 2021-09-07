@@ -55,9 +55,7 @@ Versions: **1.12**
 
 **This map is free to use, more information here:** [**https://www.planetminecraft.com/project/oriental-steampunk-map-pack-free-to-use/**](https://www.planetminecraft.com/project/oriental-steampunk-map-pack-free-to-use/)\*\*\*\*
 
-**Preset + map:** [**https://www.mediafire.com/file/h4y0rsr54968fvb/ElytraRacing+Preset+Oriental+Steampunk.zip/file**](https://www.mediafire.com/file/h4y0rsr54968fvb/ElytraRacing+Preset+Oriental+Steampunk.zip/file)  
-  
-**If the world file does not work in 1.14 to 1.16+: Maybe try this link:** [**https://www.mediafire.com/file/kda0qyh72ba6chc/Steampunk.rar/file**](https://www.mediafire.com/file/kda0qyh72ba6chc/Steampunk.rar/file)\*\*\*\*
+**Preset + map:** [**https://www.mediafire.com/file/h4y0rsr54968fvb/ElytraRacing+Preset+Oriental+Steampunk.zip/file**](https://www.mediafire.com/file/h4y0rsr54968fvb/ElytraRacing+Preset+Oriental+Steampunk.zip/file)
 {% endhint %}
 
 {% embed url="https://youtu.be/7-DIlwYwChA" %}
