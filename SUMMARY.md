@@ -1,6 +1,7 @@
 # Table of contents
 
 * [General information](README.md)
+* [Test server](test-server.md)
 * [How to start](how-to-start.md)
 * [Videos made around ElytraRacing](videos-made-around-elytraracing.md)
 * [Lack of maps ?](lack-of-maps.md)
@@ -41,4 +42,8 @@
 
 * [English](config-translated-version/english.md)
 * [Chinese](config-translated-version/chinese.md)
+
+## Other
+
+* [TODO](other/todo.md)
 
