@@ -37,3 +37,8 @@
 
 * [PlaceholderAPI](dependencies/placeholderapi.md)
 
+## Config translated version
+
+* [English](config-translated-version/english.md)
+* [Chinese](config-translated-version/chinese.md)
+
