@@ -41,7 +41,7 @@ Here you will have information on most of variables that are easy to understand
 | HOLOGRAMS\_RANK\_DUPLICATION | Is hologram show duplicated ranks \(as for example 2 players at the second place\) | true |
 |  |  |  |
 
-## Replay sytem
+## Replay sytem \(ended in 1.1.2\) : Not enough stable and reliable
 
 The replay system is not perfect but does the job
 
