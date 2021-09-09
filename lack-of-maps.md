@@ -5,7 +5,7 @@ description: 'Here, you will be able to see every map with presets for ElytraRac
 # Lack of maps ?
 
 {% hint style="success" %}
-If you want to add a map setup on your server but there is no folder named "maps" on the ElytraRacing, create one :\)
+If you want to add a map setup on your server but there is no folder named "maps" on the ElytraRacing, create one :\) Tutorial: [here](https://chooseit.gitbook.io/elytraracing/faq/how-do-i-add-a-map-preset-to-my-server)
 {% endhint %}
 
 ## 1 - UnderSea
