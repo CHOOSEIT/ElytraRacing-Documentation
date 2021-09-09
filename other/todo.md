@@ -2,7 +2,7 @@
 
 
 
-✅ : Added,❌: Not added yet, 👷: Working on, 📩 : Next update
+✅  : Added, ❌  : Not added yet, 👷  : Working on, 📩  : Next update
 
 * Podium support :  ✅ \(0.3-BETA\) : [https://youtu.be/B0Vj-Jo0Eyk](https://youtu.be/B0Vj-Jo0Eyk)
 * Auto hosting : ✅ \(0.4-BETA\) : [https://chooseit.io/er/doc/tutorials/create-game/how-to-use-autogames](https://chooseit.io/er/doc/tutorials/create-game/how-to-use-autogames)
