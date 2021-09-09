@@ -6,5 +6,3 @@ description: 'IP: test.elytraracing.chooseit.io in 1.16.5'
 
 ![](https://imgur.com/diIIe5v.jpg)
 
-
-
