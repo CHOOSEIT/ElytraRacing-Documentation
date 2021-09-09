@@ -34,6 +34,10 @@
 * [How to use signs](tutorials/how-to-use-signs.md)
 * ["OneGame" server](tutorials/onegame-server.md)
 
+## FAQ
+
+* [How do I add a map preset to my server?](faq/how-do-i-add-a-map-preset-to-my-server.md)
+
 ## Dependencies
 
 * [PlaceholderAPI](dependencies/placeholderapi.md)
