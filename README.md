@@ -41,11 +41,39 @@ You will see that with a little bit of necessary configuration, you will play ga
 
 ### Important information
 
-| Feature | Specific version | Information |
-| :--- | :--- | :--- |
-| Fireworks in podium | 1.10+ |  |
-| Holograms | 1.10+ |  |
-| Replay system |  | This system is a bonus feature. This system is not perfect ! |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Feature</th>
+      <th style="text-align:left">Specific version</th>
+      <th style="text-align:left">Information</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Fireworks in podium</td>
+      <td style="text-align:left">1.10+</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Holograms</td>
+      <td style="text-align:left">1.10+</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Replay system</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>This system is a bonus feature. This system is not perfect !</p>
+        <p></p>
+        <p><b>Removed feature in 1.1.2 version</b>
+        </p>
+        <p><b>(I can not get this feature stable and reliable)</b>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="warning" %}
 A player who has left a started game can no longer join it.
