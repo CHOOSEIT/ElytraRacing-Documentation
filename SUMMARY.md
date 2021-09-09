@@ -37,6 +37,8 @@
 ## FAQ
 
 * [How do I add a map preset to my server?](faq/how-do-i-add-a-map-preset-to-my-server.md)
+* [How do I create an hosted game](faq/how-do-i-create-an-hosted-game.md)
+* [How do I create a game that run automatically](faq/how-do-i-create-a-game-that-run-automatically.md)
 
 ## Dependencies
 
