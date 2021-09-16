@@ -32,7 +32,7 @@ You will see that with a little bit of necessary configuration, you will play ga
 
 
 
-* This plugin is based on 3 commands: 
+* This plugin is based on 5 commands: 
 * **/ermap** \(elytraracing.admin\) : Allows you to configure and create \(almost\) your map without using its configuration file.
 * **/erhost** \(elytraracing.host\) : Allows you to host a game.
 * **/er** \(no-permission player command\) : Allows players to join and leave a game.
