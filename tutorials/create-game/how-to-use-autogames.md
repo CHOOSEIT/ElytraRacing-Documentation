@@ -12,10 +12,14 @@ Permission: elytraracing.admin
 An autogame is a game that will be constantly recreate itself after each game
 {% endhint %}
 
+{% hint style="success" %}
+Tutorial video: [here](https://www.youtube.com/watch?v=D3f\_ImGqps4)
+{% endhint %}
+
 ### 1. Create a new Autogame
 
 {% hint style="info" %}
-"/ergames add \[name\]"
+"/ergames add \[name]"
 
 Add blank map in the configuration file
 {% endhint %}
@@ -31,4 +35,3 @@ You can configure the autogame with /ergames list and by selecting your autogame
 {% hint style="info" %}
 The autogame will be available after the next restart of the server or doing /ergames reload
 {% endhint %}
-
