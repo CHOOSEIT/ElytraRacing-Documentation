@@ -22,9 +22,9 @@ World size: **1300+ X 700+**
 Versions: **1.9 to 1.17+**
 
 **More information:** [**https://www.mc-market.org/resources/20660/**](https://www.mc-market.org/resources/20660/)****
-{% endhint %}
 
-{% embed url="https://www.youtube.com/watch?v=9YQvUsUcbVs" %}
+➡️ **Presentation video:** [**https://www.youtube.com/watch?v=9YQvUsUcbVs**](https://www.youtube.com/watch?v=9YQvUsUcbVs)****
+{% endhint %}
 
 ## 2 - Cavern
 
@@ -40,11 +40,9 @@ Versions: **1.12 to 1.17+**
 World size: **1150+ X 300+**
 
 **More information:** [**https://www.mc-market.org/resources/20667/**](https://www.mc-market.org/resources/20667/)****
+
+➡️ **Presentation video:** [https://www.youtube.com/watch?v=iEFBF-ao25w](https://www.youtube.com/watch?v=iEFBF-ao25w)
 {% endhint %}
-
-{% embed url="https://youtu.be/iEFBF-ao25w" %}
-
-
 
 ## **3 - Oriental-Steampunk**
 
@@ -60,8 +58,8 @@ Versions: **1.12**
 **This map is free to use, more information here:** [**https://www.planetminecraft.com/project/oriental-steampunk-map-pack-free-to-use/**](https://www.planetminecraft.com/project/oriental-steampunk-map-pack-free-to-use/)****
 
 **Preset + map:** [**https://www.mediafire.com/file/9q34zrprkcuefi1/ElytraRacing+Preset+Oriental+Steampunk.zip/file**](https://www.mediafire.com/file/9q34zrprkcuefi1/ElytraRacing+Preset+Oriental+Steampunk.zip/file)****
-{% endhint %}
 
-{% embed url="https://youtu.be/7-DIlwYwChA" %}
+➡️ **Presentation video:** [**https://www.youtube.com/watch?v=7-DIlwYwChA**](https://www.youtube.com/watch?v=7-DIlwYwChA)****
+{% endhint %}
 
 ****
