@@ -49,6 +49,15 @@ To see a particle in the particle selector in your games, the player has to have
 **Others: Printed in the console at start**
 {% endhint %}
 
+{% hint style="success" %}
+Test your work:&#x20;
+
+* Set **enable** to false
+* set **name** as your ingame username
+
+It will apply directly to you the particles after the **/erconfig reload** (you still has to fly to activate)
+{% endhint %}
+
 ### **Key customisation**
 
 There are 2 main parameters that we will explain here:
