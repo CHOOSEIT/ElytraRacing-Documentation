@@ -1,8 +1,10 @@
 ---
 description: Here you will learn more information about ElytraRacing and how to use it
+cover: https://imgur.com/aOuvlLh.jpg
+coverY: 0
 ---
 
-# General information
+# 👋 General information
 
 ## What is ElytraRacing ?
 

@@ -2,7 +2,7 @@
 description: Here you will learn every information about PlaceholderAPI
 ---
 
-# PlaceholderAPI
+# 💡 PlaceholderAPI
 
 #### PlaceholderAPI is optional
 

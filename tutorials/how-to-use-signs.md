@@ -2,7 +2,7 @@
 description: Here you will learn everything about signs
 ---
 
-# How to use signs
+# 📚 How to use signs
 
 {% hint style="warning" %}
 Default permission: elytraracing.sign
