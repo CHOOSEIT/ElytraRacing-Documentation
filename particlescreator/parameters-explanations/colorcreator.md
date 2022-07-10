@@ -18,13 +18,13 @@ Example of a shapeParticle
 ```
 
 {% hint style="success" %}
-The colorcreator parameter can be seen as an list of "instruction" executed sequentially to creator a desired shape
+The colorcreator parameter can be seen as an list of "instruction" executed sequentially to create the shape wanted
 {% endhint %}
 
 Each "instructions" has 2 parameters:
 
 1. A key
-2. Options (sometimes optionals)
+2. Options (sometimes optional)
 
 {% content-ref url="../list-of-available-colors.md" %}
 [list-of-available-colors.md](../list-of-available-colors.md)

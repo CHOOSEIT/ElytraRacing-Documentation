@@ -22,7 +22,7 @@ Example of a shapeParticle
 ```
 
 {% hint style="success" %}
-The shapeParticle parameter can be seen as an list of "instruction" executed sequentially to creator a desired shape
+The shapeParticle parameter can be seen as an list of "instruction" executed sequentially to create the shape wanted
 {% endhint %}
 
 Each "instructions" has 2 parameters:

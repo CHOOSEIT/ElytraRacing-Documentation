@@ -55,7 +55,7 @@ Test your work:&#x20;
 * Set **enable** to false
 * set **name** as your ingame username
 
-It will apply directly to you the particles after the **/erconfig reload** (you still has to fly to activate)
+It will apply directly to you the particles after the **/erconfig reload** (you still have to fly to activate)
 {% endhint %}
 
 ### **Key customisation**
