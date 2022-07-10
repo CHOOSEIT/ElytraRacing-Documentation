@@ -58,6 +58,10 @@ Test your work:&#x20;
 It will apply directly to you the particles after the **/erconfig reload** (you still have to fly to activate)
 {% endhint %}
 
+{% hint style="danger" %}
+Options of shape and color creator are separated by **;**
+{% endhint %}
+
 ### **Key customisation**
 
 There are 2 main parameters that we will explain here:
