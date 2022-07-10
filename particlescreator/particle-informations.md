@@ -10,6 +10,14 @@ description: Here you will learn how to create new particle
 This feature is only available for version 1.5.0 and above
 {% endhint %}
 
+{% hint style="info" %}
+Share particle channel: [https://discord.gg/ZFxJ6AtVZr](https://discord.gg/ZFxJ6AtVZr)&#x20;
+
+Channel: #🧾-share-particle
+
+Send me a message to add your particle to the list: CHOOSEIT#6056
+{% endhint %}
+
 We are going to work in the file: ElytraRacing/particles/particleConfig.json
 
 ### Example of a particle (Rainbow circle following player rotation)
