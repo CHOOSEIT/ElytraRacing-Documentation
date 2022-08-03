@@ -70,6 +70,6 @@ There are 2 main parameters that we will explain here:
 [shapeparticle.md](shapeparticle.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="colorcreator.md" %}
+[colorcreator.md](colorcreator.md)
 {% endcontent-ref %}
