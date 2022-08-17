@@ -2,7 +2,7 @@
 
 ## How to create a map
 
-{% embed url="https://youtu.be/B0Vj-Jo0Eyk" %}
+{% embed url="https://www.youtube.com/watch?v=P2nW3hd_2TE&list=PLcS1oJqwBtUV8WGj_7285QsCM84lT60uX&index=2" %}
 
 {% embed url="https://www.youtube.com/watch?v=D3f_ImGqps4" %}
 
