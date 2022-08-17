@@ -23,7 +23,7 @@ Versions: **1.9 to 1.17+**
 
 **More information:** [**https://www.mc-market.org/resources/20660/**](https://www.mc-market.org/resources/20660/)****
 
-➡️ **Presentation video:** [**https://www.youtube.com/watch?v=9YQvUsUcbVs**](https://www.youtube.com/watch?v=9YQvUsUcbVs)****
+➡️ **Presentation video:** [**https://youtu.be/sMTJLbOzoug**](https://youtu.be/sMTJLbOzoug)****
 {% endhint %}
 
 ## 2 - Cavern
@@ -41,7 +41,7 @@ World size: **1150+ X 300+**
 
 **More information:** [**https://www.mc-market.org/resources/20667/**](https://www.mc-market.org/resources/20667/)****
 
-➡️ **Presentation video:** [**https://www.youtube.com/watch?v=iEFBF-ao25w**](https://www.youtube.com/watch?v=iEFBF-ao25w)****
+➡️ **Presentation video:** [**https://youtu.be/ZHuNw4JROwU**](https://youtu.be/ZHuNw4JROwU)****
 {% endhint %}
 
 ## **3 - Oriental-Steampunk**
@@ -59,7 +59,7 @@ Versions: **1.12**
 
 **Preset + map:** [**https://www.mediafire.com/file/9q34zrprkcuefi1/ElytraRacing+Preset+Oriental+Steampunk.zip/file**](https://www.mediafire.com/file/9q34zrprkcuefi1/ElytraRacing+Preset+Oriental+Steampunk.zip/file)****
 
-➡️ **Presentation video:** [**https://www.youtube.com/watch?v=7-DIlwYwChA**](https://www.youtube.com/watch?v=7-DIlwYwChA)****
+➡️ **Presentation video:** [**https://youtu.be/UgbWxTwgzj4**](https://youtu.be/UgbWxTwgzj4)****
 {% endhint %}
 
 ****
