@@ -18,7 +18,9 @@ You will see that with a little bit of necessary configuration, you will play ga
 
 ## Trailer
 
-{% embed url="https://youtu.be/7-DIlwYwChA" %}
+{% embed url="https://youtu.be/UgbWxTwgzj4" %}
+ElytraRacing trailer
+{% endembed %}
 
 ## Find the plugin (PREMIUM)
 
