@@ -15,6 +15,7 @@ Format:&#x20;
 | SHAPE\_POINT(0)                                                                                                                                                  | ![](<../.gitbook/assets/ezgif.com-gif-maker (1) (2).gif>) | Point       |
 | <p>SHAPE_CIRCLE(2)</p><ul><li>Number of point on the circle</li><li>Radius(Decimal)</li></ul><p></p>                                                             | ![](<../.gitbook/assets/ezgif.com-gif-maker (1).gif>)     | Circle      |
 | <p></p><p>SHAPE_LINE(2)</p><ul><li>Number of point on the line</li><li>Length</li></ul><p>The line is as default on the x-axis and is centered on the player</p> | NO GIF                                                    |             |
+| <p>SHAPE_SQUARE(2)</p><ul><li>Number of point on a side</li><li>Length</li></ul><p>Each side is as default on the x-axis and is centered on the player</p>       |                                                           |             |
 
 ### MASK SHAPE
 
