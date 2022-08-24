@@ -6,6 +6,10 @@ description: Here you will learn how to create new particle
 
 ## Where to start ?
 
+{% hint style="warning" %}
+Too many Mask/Shape could have some loss of performance
+{% endhint %}
+
 {% hint style="success" %}
 This feature is only available for version 1.5.0 and above
 {% endhint %}

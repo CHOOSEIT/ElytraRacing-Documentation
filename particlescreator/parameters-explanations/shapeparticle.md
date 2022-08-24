@@ -21,6 +21,10 @@ Example of a shapeParticle
     ]
 ```
 
+{% hint style="info" %}
+Basic shapes can new be reused sequentially multiple times, it will for every displayed particle create the shape
+{% endhint %}
+
 {% hint style="success" %}
 The shapeParticle parameter can be seen as an list of "instruction" executed sequentially to create the shape wanted
 {% endhint %}
