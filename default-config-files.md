@@ -4,6 +4,18 @@ description: From 1.5.1
 
 # 👁 Default Config Files
 
+{% hint style="success" %}
+If you want other languages look at this page:
+{% endhint %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+
+
+
+
 <details>
 
 <summary>Config.json</summary>
