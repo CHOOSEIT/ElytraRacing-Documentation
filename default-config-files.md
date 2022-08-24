@@ -1369,7 +1369,7 @@ description: From 1.5.1
 
 <details>
 
-<summary>particleConfig.json</summary>
+<summary>particles/particleConfig.json</summary>
 
 {% code lineNumbers="true" %}
 ```json
