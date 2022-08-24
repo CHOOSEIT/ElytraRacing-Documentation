@@ -805,7 +805,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "{HOST_NAME}",
           "lines": [
             "",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "&fMapa: {CURRENT_MAP}",
             "&fModo: &aRace",
             "",
@@ -830,15 +830,15 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "ElytraRacing",
           "lines": [
             "",
-            "Tiempo restante &c{TIME_LEFT}",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "Tiempo &c{TIME_LEFT}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "",
             "&e1º - {RACE_RANK_PLAYER_1}",
             "&72º - {RACE_RANK_PLAYER_2}",
             "&63º - {RACE_RANK_PLAYER_3}",
             "Su rango: {SELF_RACE_RANK_PLAYER}",
             "",
-            "Puntos de control: &6{SELF_CPS}/{MAX_CPS}",
+            "Control: &6{SELF_CPS}/{MAX_CPS}",
             "Vueltas: &6{SELF_LAPS}/{MAX_LAPS}",
             "",
             "{LINK}"
@@ -848,8 +848,8 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "{HOST_NAME}",
           "lines": [
             "",
-            "Tiempo restante &c{TIME_LEFT}",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "Tiempo &c{TIME_LEFT}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "",
             "&e1º - {RACE_RANK_PLAYER_1}",
             "&72º - {RACE_RANK_PLAYER_2}",
@@ -864,8 +864,8 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "ElytraRacing",
           "lines": [
             "",
-            "Tiempo restante &c{TIME_LEFT}",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "Tiempo &c{TIME_LEFT}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "",
             "&e1º - {RACE_RANK_PLAYER_1}",
             "&72º - {RACE_RANK_PLAYER_2}",
@@ -880,7 +880,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "{HOST_NAME}",
           "lines": [
             "",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "&fMapa: {CURRENT_MAP}",
             "&fModo: &aRace",
             "",
@@ -906,15 +906,15 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "{HOST_NAME}",
           "lines": [
             "",
-            "Tiempo restante &c{TIME_LEFT}",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "Tiempo &c{TIME_LEFT}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "",
             "&e1º - {RACE_RANK_PLAYER_1}",
             "&72º - {RACE_RANK_PLAYER_2}",
             "&63º - {RACE_RANK_PLAYER_3}",
             "Su rango: {SELF_RACE_RANK_PLAYER}",
             "",
-            "Puntos de control: &6{SELF_CPS}/{MAX_CPS}",
+            "Control: &6{SELF_CPS}/{MAX_CPS}",
             "Vueltas: &6{SELF_LAPS}/{MAX_LAPS}",
             "",
             "{LINK}"
@@ -937,7 +937,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "ElytraRacing",
           "lines": [
             "",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "&fMapa: {CURRENT_MAP}",
             "&fModo: &aRace",
             "",
@@ -950,11 +950,11 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "ElytraRacing",
           "lines": [
             "",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "&fMapa: {CURRENT_MAP}",
             "&fModo: &aRace",
             "",
-            "&cNecesita {NEEDED_PLAYER} Jugador(es) para empezar",
+            "&cNecesita {NEEDED_PLAYER} Jugadores para empezar",
             "",
             "{LINK}"
           ]
@@ -980,7 +980,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "{HOST_NAME}",
           "lines": [
             "",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "&fMapa: {CURRENT_MAP}",
             "&fModo: &aGrandPrix",
             "Ronda: 1/{MAX_ROUND}",
@@ -994,7 +994,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "{HOST_NAME}",
           "lines": [
             "",
-            "Próximo mapa: {CURRENT_MAP}",
+            "Próx. mapa: {CURRENT_MAP}",
             "{CURRENT_MAP_DIFFICULTY}",
             "&6MP: {SELF_MAP_PB}",
             "",
@@ -1002,7 +1002,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
             "&72º - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
             "&63º - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
             "Su rango: {SELF_RANK_PLAYER}",
-            "Su puntuación: {SELF_RANK_PLAYER_SCORE}",
+            "Puntuación: {SELF_RANK_PLAYER_SCORE}",
             "",
             "{LINK}"
           ]
@@ -1011,9 +1011,9 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "{HOST_NAME}",
           "lines": [
             "",
-            "Tiempo restante &c{TIME_LEFT}",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
-            "Su puntuación: {CURRENT_ROUND}/{MAX_ROUND}",
+            "Tiempo &c{TIME_LEFT}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "Puntuación: {CURRENT_ROUND}/{MAX_ROUND}",
             "",
             "&e1º - {RACE_RANK_PLAYER_1}",
             "&72º - {RACE_RANK_PLAYER_2}",
@@ -1028,10 +1028,10 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "{HOST_NAME}",
           "lines": [
             "",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "&fMapa: {CURRENT_MAP}",
             "&fModo: &aGrandPrix",
-            "Su puntuación: 1/{MAX_ROUND}",
+            "Puntuación: 1/{MAX_ROUND}",
             "",
             "Anfitrión: {HOST}",
             "&cSe inicia en {STARTING_COUNTDOWN} segundo(s)",
@@ -1043,16 +1043,16 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "{HOST_NAME}",
           "lines": [
             "",
-            "Tiempo restante &c{TIME_LEFT}",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
-            "Su puntuación: {CURRENT_ROUND}/{MAX_ROUND}",
+            "Tiempo &c{TIME_LEFT}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "Puntuación: {CURRENT_ROUND}/{MAX_ROUND}",
             "",
             "&e1º - {RACE_RANK_PLAYER_1}",
             "&72º - {RACE_RANK_PLAYER_2}",
             "&63º - {RACE_RANK_PLAYER_3}",
             "Su rango: {SELF_RACE_RANK_PLAYER}",
             "",
-            "Puntos de control: &6{SELF_CPS}/{MAX_CPS}",
+            "Control: &6{SELF_CPS}/{MAX_CPS}",
             "Vueltas: &6{SELF_LAPS}/{MAX_LAPS}",
             "",
             "{LINK}"
@@ -1075,10 +1075,10 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "ElytraRacing",
           "lines": [
             "",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "&fMapa: {CURRENT_MAP}",
             "&fModo: &aGrandPrix",
-            "Su puntuación: 1/{MAX_ROUND}",
+            "Puntuación: 1/{MAX_ROUND}",
             "",
             "&cSe inicia en {STARTING_COUNTDOWN} segundo(s)",
             "",
@@ -1089,7 +1089,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "ElytraRacing",
           "lines": [
             "",
-            "Próximo mapa: {CURRENT_MAP}",
+            "Próx. mapa: {CURRENT_MAP}",
             "{CURRENT_MAP_DIFFICULTY}",
             "&6MP: {SELF_MAP_PB}",
             "",
@@ -1097,7 +1097,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
             "&72º - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
             "&63º - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
             "Su rango: {SELF_RANK_PLAYER}",
-            "Su puntuación: {SELF_RANK_PLAYER_SCORE}",
+            "Puntuación: {SELF_RANK_PLAYER_SCORE}",
             "",
             "{LINK}"
           ]
@@ -1106,7 +1106,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "{HOST_NAME}",
           "lines": [
             "",
-            "Próximo mapa: {CURRENT_MAP}",
+            "Próx. mapa: {CURRENT_MAP}",
             "{CURRENT_MAP_DIFFICULTY}",
             "&6MP: {SELF_MAP_PB}",
             "",
@@ -1127,7 +1127,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
             "&72º - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
             "&63º - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
             "Su rango: {SELF_RANK_PLAYER}",
-            "Su puntuación: {SELF_RANK_PLAYER_SCORE}",
+            "Puntuación: {SELF_RANK_PLAYER_SCORE}",
             "",
             "{LINK}"
           ]
@@ -1136,7 +1136,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "ElytraRacing",
           "lines": [
             "",
-            "Próximo mapa: {CURRENT_MAP}",
+            "Próx. mapa: {CURRENT_MAP}",
             "{CURRENT_MAP_DIFFICULTY}",
             "&6MP: {SELF_MAP_PB}",
             "",
@@ -1153,16 +1153,16 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "ElytraRacing",
           "lines": [
             "",
-            "Tiempo restante &c{TIME_LEFT}",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
-            "Su puntuación: {CURRENT_ROUND}/{MAX_ROUND}",
+            "Tiempo &c{TIME_LEFT}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "Puntuación: {CURRENT_ROUND}/{MAX_ROUND}",
             "",
             "&e1º - {RACE_RANK_PLAYER_1}",
             "&72º - {RACE_RANK_PLAYER_2}",
             "&63º - {RACE_RANK_PLAYER_3}",
             "Su rango: {SELF_RACE_RANK_PLAYER}",
             "",
-            "Puntos de control: &6{SELF_CPS}/{MAX_CPS}",
+            "Control: &6{SELF_CPS}/{MAX_CPS}",
             "Vueltas: &6{SELF_LAPS}/{MAX_LAPS}",
             "",
             "{LINK}"
@@ -1172,9 +1172,9 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "ElytraRacing",
           "lines": [
             "",
-            "Tiempo restante &c{TIME_LEFT}",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
-            "Su puntuación: {CURRENT_ROUND}/{MAX_ROUND}",
+            "Tiempo &c{TIME_LEFT}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "Puntuación: {CURRENT_ROUND}/{MAX_ROUND}",
             "",
             "&e1º - {RACE_RANK_PLAYER_1}",
             "&72º - {RACE_RANK_PLAYER_2}",
@@ -1193,7 +1193,7 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
             "&72º - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
             "&63º - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
             "Su rango: {SELF_RANK_PLAYER}",
-            "Su puntuación: {SELF_RANK_PLAYER_SCORE}",
+            "Puntuación: {SELF_RANK_PLAYER_SCORE}",
             "",
             "{LINK}"
           ]
@@ -1202,12 +1202,12 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
           "title": "ElytraRacing",
           "lines": [
             "",
-            "&fJugador(es): {CURRENT_PLAYER}/{MAX_PLAYER}",
+            "&fJugadores: {CURRENT_PLAYER}/{MAX_PLAYER}",
             "&fMapa: {CURRENT_MAP}",
             "&fModo: &aGrandPrix",
-            "Su puntuación: 1/{MAX_ROUND}",
+            "Puntuación: 1/{MAX_ROUND}",
             "",
-            "&cNecesita {NEEDED_PLAYER} Jugador(es) para empezar",
+            "&cNecesita {NEEDED_PLAYER} Jugadores para empezar",
             "",
             "{LINK}"
           ]
@@ -1236,12 +1236,12 @@ El objetivo de esta traducción no es tener el complemento perfecto sino tener u
             "&6MP: {SELF_MAP_PB}",
             "&fRango: {SELF_MAP_RANK}",
             "",
-            "WR holder: {MAP_WR_PLAYER}",
-            "&6Time: &c{MAP_WR_TIME}",
+            "Récord mundial: {MAP_WR_PLAYER}",
+            "&6Timpo: &c{MAP_WR_TIME}",
             "",
-            "Tiempo restante &c{TIME_LEFT}",
-            "&fDifficulty: {CURRENT_MAP_DIFFICULTY}",
-            "Puntos de control: &6{SELF_CPS}/{MAX_CPS}",
+            "Tiempo &c{TIME_LEFT}",
+            "&fDificultad: {CURRENT_MAP_DIFFICULTY}",
+            "Control: &6{SELF_CPS}/{MAX_CPS}",
             "Vueltas: &6{SELF_LAPS}/{MAX_LAPS}",
             "",
             "{LINK}"
