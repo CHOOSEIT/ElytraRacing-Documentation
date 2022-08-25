@@ -60,6 +60,7 @@
 * [🇨🇳 Chinese](config-translated-version/chinese.md)
 * [🇪🇸 Spanish](config-translated-version/spanish.md)
 * [🇩🇪 German](config-translated-version/german.md)
+* [🇫🇷 French](config-translated-version/french.md)
 
 ## Other
 

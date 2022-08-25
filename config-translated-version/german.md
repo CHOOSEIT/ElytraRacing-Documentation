@@ -92,9 +92,9 @@ Dateien, die mit mehreren Übersetzungs-Websites übersetzt wurden Das Ziel dies
   "TABLIST_GRANDPRIX": true,
   "COMMANDS_WHITELIST": false,
   "COMMANDS_WHITELIST_COMMANDS": [
-    "msg",
-    "rl",
-    "reload"
+    "",
+    "",
+    ""
   ],
   "COMMANDS_WHITELIST_BYPASS_PERMISSION": "elytraracing.wlcommands.bypass",
   "COMMANDS_MESSAGE": "&cSie können diesen Befehl hier nicht ausführen!",
@@ -127,7 +127,7 @@ Dateien, die mit mehreren Übersetzungs-Websites übersetzt wurden Das Ziel dies
   "ITEM_RESTART": "&cRESTART",
   "ITEM_RESTART_MATERIAL": null,
   "ITEM_RESTART_SLOT": 4,
-  "ITEM_DNF": "&cDNF",
+  "ITEM_DNF": "&cNNB",
   "ITEM_DNF_MATERIAL": null,
   "ITEM_DNF_SLOT": 8,
   "ITEM_BED": "&cSpiel verlassen",
@@ -237,9 +237,9 @@ Dateien, die mit mehreren Übersetzungs-Websites übersetzt wurden Das Ziel dies
   },
   "MSG_STEP_TIMER_MAPSTART_TITLE": {
     "0": "&c>>  GO  <<",
-    "1": "&e1",
-    "2": "&62",
-    "3": "&c3"
+    "1": "",
+    "2": "",
+    "3": ""
   },
   "MSG_STEP_TIMER_MAPSTART_SUBTITLE": {
     "0": "",
@@ -248,24 +248,24 @@ Dateien, die mit mehreren Übersetzungs-Websites übersetzt wurden Das Ziel dies
     "3": ""
   },
   "MSG_PER_RANK_TIME": {
-    "1": "&e{RANKING}&f: &e{PLAYER} &f>> {ARG_RANK_TIME}",
-    "2": "&a{RANKING}&f: &a{PLAYER} &f>> {ARG_RANK_TIME}",
-    "3": "&2{RANKING}&f: &2{PLAYER} &f>> {ARG_RANK_TIME}",
-    "4": "&6{RANKING}&f: &6{PLAYER} &f>> {ARG_RANK_TIME}",
-    "5": "&c{RANKING}&f: &f{PLAYER} &f>> {ARG_RANK_TIME}",
-    "6": "&c{RANKING}&f: &f{PLAYER} &f>> {ARG_RANK_TIME}",
-    "7": "&c{RANKING}&f: &f{PLAYER} &f>> {ARG_RANK_TIME}",
-    "8": "&c{RANKING}&f: &f{PLAYER} &f>> {ARG_RANK_TIME}"
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": "",
+    "7": "",
+    "8": ""
   },
   "MSG_PER_RANK_SCORE": {
-    "1": "&e{RANKING}&f: &e{PLAYER} &f>> {SCORE}",
-    "2": "&a{RANKING}&f: &a{PLAYER} &f>> {SCORE}",
-    "3": "&2{RANKING}&f: &2{PLAYER} &f>> {SCORE}",
-    "4": "&6{RANKING}&f: &6{PLAYER} &f>> {SCORE}",
-    "5": "&c{RANKING}&f: &f{PLAYER} &f>> {SCORE}",
-    "6": "&c{RANKING}&f: &f{PLAYER} &f>> {SCORE}",
-    "7": "&c{RANKING}&f: &f{PLAYER} &f>> {SCORE}",
-    "8": "&c{RANKING}&f: &f{PLAYER} &f>> {SCORE}"
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": "",
+    "7": "",
+    "8": ""
   },
   "SCORING_PER_RANK": {
     "1": 15,
@@ -285,7 +285,7 @@ Dateien, die mit mehreren Übersetzungs-Websites übersetzt wurden Das Ziel dies
   "MSG_PRE_SCORE": "&7\nAnzeiger:\n",
   "MSG_YOURRANK": "&7Ihr Rang auf dieser Karte: &c{RANK}",
   "MSG_YOURSCORE": "&7Ihr Gesamtrang ist: &c{RANK} &7mit &c{SCORE} &7Punkte",
-  "MSG_ARG_RANK_TIME_DNF": "&cDNF",
+  "MSG_ARG_RANK_TIME_DNF": "&cNNB",
   "MSG_ARG_RANK_TIME_TIME": "&c{TIME}",
   "TELEPORTING": "&7Teleportieren...",
   "TIMEFORMAT": "{MINUTES}m {SECONDS}.{MILLISECONDS}s",
@@ -328,10 +328,10 @@ Dateien, die mit mehreren Übersetzungs-Websites übersetzt wurden Das Ziel dies
   "ERGAMES_ALREADYGAME": "&cDu kannst dieses automatische Spiel nicht aktivieren, weil es bereits ein Spiel mit demselben Namen gibt",
   "TABLIST_RANK_SCORE_TITLE": "&7Anzeiger",
   "TABLIST_RANK_SCORE_SPECIFIC": {
-    "-1": "&9{RANK} &7- &9{USERNAME} &7- &c{SCORE}",
-    "1": "&e{RANK} &7- &e{USERNAME} &7- &c{SCORE}",
-    "2": "&7{RANK} &7- &7{USERNAME} &7- &c{SCORE}",
-    "3": "&6{RANK} &7- &6{USERNAME} &7- &c{SCORE}"
+    "-1": "",
+    "1": "",
+    "2": "",
+    "3": ""
   },
   "TABLIST_GRANDPRIX_PERSONAL_PERSONAL": "&6Persönliche Statistiken zu dieser Karte:",
   "TABLIST_GRANDPRIX_PERSONAL_TIME": "&9Persönliche Bestzeit: &c{TIME}",
@@ -339,113 +339,113 @@ Dateien, die mit mehreren Übersetzungs-Websites übersetzt wurden Das Ziel dies
   "TABLIST_GRANDPRIX_PERSONAL_WINRATE": "&9Ihre Gewinnrate: &c{WINRATE} %",
   "HOLOGRAMS_RANK_SCORE_TITLE": "&6&lTop 15 Höchste Punktzahlen",
   "HOLOGRAMS_RANK_SCORE_SPECIFIC": {
-    "-1": "&9{RANK} &7- &9{USERNAME} &7- &c{SCORE}",
-    "-2": "&9{RANK} &7- &9-------- &7- &c0",
-    "1": "&e{RANK} &7- &e{USERNAME} &7- &c{SCORE}",
-    "2": "&7{RANK} &7- &7{USERNAME} &7- &c{SCORE}",
-    "3": "&6{RANK} &7- &6{USERNAME} &7- &c{SCORE}"
+    "-1": "",
+    "-2": "",
+    "1": "",
+    "2": "",
+    "3": ""
   },
   "HOLOGRAMS_RANK_WON_RACEMODE_TITLE": "&6&lTop 15 Höchste gewonnene Rennen",
   "HOLOGRAMS_RANK_WON_RACEMODE_SPECIFIC": {
-    "-1": "&9{RANK} &7- &9{USERNAME} &7- &c{SCORE}",
-    "-2": "&9{RANK} &7- &9-------- &7- &c0",
-    "1": "&e{RANK} &7- &e{USERNAME} &7- &c{SCORE}",
-    "2": "&7{RANK} &7- &7{USERNAME} &7- &c{SCORE}",
-    "3": "&6{RANK} &7- &6{USERNAME} &7- &c{SCORE}"
+    "-1": "",
+    "-2": "",
+    "1": "",
+    "2": "",
+    "3": ""
   },
   "HOLOGRAMS_RANK_WON_GRANDPRIX_TITLE": "&6&lTop 15 Höchster gewonnener Grandprix",
   "HOLOGRAMS_RANK_WON_GRANDPRIX_SPECIFIC": {
-    "-1": "&9{RANK} &7- &9{USERNAME} &7- &c{SCORE}",
-    "-2": "&9{RANK} &7- &9-------- &7- &c0",
-    "1": "&e{RANK} &7- &e{USERNAME} &7- &c{SCORE}",
-    "2": "&7{RANK} &7- &7{USERNAME} &7- &c{SCORE}",
-    "3": "&6{RANK} &7- &6{USERNAME} &7- &c{SCORE}"
+    "-1": "",
+    "-2": "",
+    "1": "",
+    "2": "",
+    "3": ""
   },
   "HOLOGRAMS_RANK_MAP_TITLE": "&6&lTop 15 Beste Zeiten auf {MAP}",
   "HOLOGRAMS_RANK_MAP_SPECIFIC": {
-    "-1": "&9{RANK} &7- &9{USERNAME} &7- &c{SCORE}",
-    "-2": "&9{RANK} &7- &9-------- &7- &c0",
-    "1": "&e{RANK} &7- &e{USERNAME} &7- &c{SCORE}",
-    "2": "&7{RANK} &7- &7{USERNAME} &7- &c{SCORE}",
-    "3": "&6{RANK} &7- &6{USERNAME} &7- &c{SCORE}"
+    "-1": "",
+    "-2": "",
+    "1": "",
+    "2": "",
+    "3": ""
   },
   "HOLOGRAMS_PERSONAL_MAPS_TITLE": "&6&lPersönliche Statistiken auf Karten",
   "HOLOGRAMS_PERSONAL_MAPS_SPECIFIC": "&6{MAP_NAME} &7: &c{PLAYER_TIME} &7(#{PLAYER_RANK}) (winrate: {WINRATE}%)",
   "HOST_MAPCHOOSER_CHANGEPAGE": "Klicken Sie hier, um die Seite zu wechseln",
   "DNF_INSTANT_QUIT": false,
   "MSG_LISTMAPS_INFO": [
-    "&a>> {MAP_NAME}",
-    " ",
+    "",
+    "",
     "&f>> &7Gültig: {VALID}",
     "&f>> &7Aktiviert: {ENABLED}",
-    " ",
+    "",
     "&f>> &7Kontrollpunkte: &c{CHECKPOINTS}",
     "&f>> &7Endet: &c{ENDS}",
     "&f>> &7Standort Lobby: &c{LOBBY}",
     "&f>> &7Startort: &c{START}",
     "&f>> &7Standort beenden: &c{END}",
     "&f>> &7Podium: &c{PODIUM}",
-    " ",
+    "",
     "&f>> &7Zeit max.: &c{TIME}",
     "&f>> &7Schwierigkeitsgrad: &c{DIFFICULTY}",
-    " "
+    ""
   ],
   "HOST_TITLE_PERM": "&7Erlaubnis: &c{PERMISSION}",
   "HOST_DESC_PERM": [
-    " ",
-    "&f/erhost setperm &c[permission/none]",
+    "",
+    "",
     "&fSo definieren Sie die Berechtigung zum Beitritt zu Ihrem Spiel.",
-    " "
+    ""
   ],
   "HOST_TITLE_ALERT": "&aAlarmierung",
   "HOST_DESC_ALERT": [
-    " ",
+    "",
     "&fKlicken Sie hier, um eine Einladung zu Ihrem Spiel zu senden",
-    " "
+    ""
   ],
   "HOST_TITLE_START": "&aStart",
   "HOST_DESC_START": [
-    " ",
+    "",
     "&fKlicken Sie hier, um das Spiel zu starten",
-    " "
+    ""
   ],
   "HOST_TITLE_END": "&cCountdown abbrechen",
   "HOST_DESC_END": [
-    " ",
+    "",
     "&fKlicken Sie hier, um den Countdown zu stoppen",
-    " "
+    ""
   ],
   "HOST_TITLE_SLOTS": "&cAnzahl der Slots",
   "HOST_DESC_SLOTS": [
-    " ",
+    "",
     "&fAnzahl der Steckplätze: &c{SLOTS}",
-    " ",
+    "",
     "&7Links klicken: +1 (+ Schicht: +10)",
     "&7Rechtsklick: -1 (+ Schicht: -10)",
-    " "
+    ""
   ],
   "HOST_TITLE_OPEN": "&fIhr Gastgeber ist derzeit: &aÖffnen Sie",
   "HOST_TITLE_CLOSED": "&fIhr Gastgeber ist derzeit: &cGeschlossen",
   "HOSTCREATOR_CREATE_TITLE": "&aErstellen Sie den Host",
   "HOSTCREATOR_CREATE_DESCRIPTION": [
-    " ",
+    "",
     "&fName: &c{NAME}",
-    " ",
+    "",
     "&fAnzahl der Steckplätze: &c{SLOTS}",
     "&fAnzahl der Karten: &c{MAP_NUMBER}",
     "&fModus: &c{MODE}",
-    " "
+    ""
   ],
   "HOSTCREATOR_MAPS_TITLE": "&fAnzahl der Karten: &c{MAP_NUMBER}",
   "HOSTCREATOR_MAPS_DESCRIPTION": "&f{ORDER}. {MAP_NAME}",
   "HOSTCREATOR_MAXPLAYERS_TITLE": "&fAnzahl der Steckplätze: {SLOTS}",
   "HOST_MAXPLAYERS_SLOTS": [
-    " ",
+    "",
     "&fAnzahl der Steckplätze: &c{SLOTS}",
-    " ",
+    "",
     "&7Links klicken: +1 (+ Schicht: +10)",
     "&7Rechtsklick: -1 (+ Schicht: -10)",
-    " "
+    ""
   ],
   "STATES": {
     "STARTING": "&6Start:",
@@ -454,60 +454,60 @@ Dateien, die mit mehreren Übersetzungs-Websites übersetzt wurden Das Ziel dies
     "FINISHED": "&7Fertigstellung"
   },
   "SIGN_FORMAT_ONEQUEUE_ONEGAME": [
-    "&f[ElytraRacing]",
-    "&6{MAP}",
-    "{STATE}",
-    "&c{PLAYERS}/{MAX_PLAYERS}"
+    "",
+    "",
+    "",
+    ""
   ],
   "SIGN_FORMAT": [
-    "&f[ElytraRacing]",
-    "&6{MAP}",
-    "&c{PLAYERS}/{MAX_PLAYERS}",
+    "",
+    "",
+    "",
     "&7Zum Beitritt klicken"
   ],
   "SIGN_FORMAT_DISABLED": [
-    "&f[ElytraRacing]",
-    " ",
+    "",
+    "",
     "&4DISABLED",
-    " "
+    ""
   ],
   "MSG_LISTCHECKPOINT_INFO": [
-    " ",
-    "&f>> &7ID: {ID_ORDER}",
-    " ",
-    "&f>> &7x: &c{X}",
-    "&f>> &7y: &c{Y}",
-    "&f>> &7z: &c{Z}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
     "&f>> &7Welt: &c{WORLD}",
-    " ",
+    "",
     "&f>> &7Radius: &c{RADIUS}",
     "&f>> &7Partikelmenge: &c{PARTICLE_AMOUNT}",
     "&f>> &7Boost-Multiplikator: &c{BOOST_MULTIPLIER}",
-    "&f>> &7",
+    "",
     "&f>> &7Partikeltyp: &c{PARTICLE_TYPE}",
     "&f>> &7Verbunden mit: &c{LINK}"
   ],
   "MSG_LISTGAMES_INFO": [
-    "&a>> {GAME_NAME}",
-    " ",
+    "",
+    "",
     "&f>> &7Spieler: &c{PLAYER_SIZE}",
     "&f>> &7min. Spieler: &c{MIN_PLAYER}",
     "&f>> &7max. Spieler: &c{MAX_PLAYER}",
-    " ",
+    "",
     "&f>> &7Staat: &c{GAME_STATE}"
   ],
   "MSG_LISTEND_INFO": [
-    " ",
-    "&f>> &7ID: {ID_ORDER}",
-    " ",
-    "&f>> &7x: &c{X}",
-    "&f>> &7y: &c{Y}",
-    "&f>> &7z: &c{Z}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
     "&f>> &7Welt: &c{WORLD}",
-    " ",
+    "",
     "&f>> &7Radius: &c{RADIUS}",
     "&f>> &7Partikelmenge: &c{PARTICLE_AMOUNT}",
-    "&f>> &7",
+    "",
     "&f>> &7Partikeltyp: &c{PARTICLE_TYPE}"
   ],
   "ERSTATS_MAP": "&6&lPersönliche Statistiken auf Karten",
@@ -519,7 +519,7 @@ Dateien, die mit mehreren Übersetzungs-Websites übersetzt wurden Das Ziel dies
     "&fIhre Zeit: &6{PLAYER_TIME}",
     "&fIhr Rang: &6#{PLAYER_RANK}",
     "&fIhre Gewinnrate: &6{WINRATE}%",
-    " "
+    ""
   ],
   "ERTRAIN_MAP_INFO_PLUS": [
     "",
@@ -552,7 +552,7 @@ Dateien, die mit mehreren Übersetzungs-Websites übersetzt wurden Das Ziel dies
   ],
   "MAP_INGAME_INFO_MENU_TITLE": "&fKarteninformationen",
   "MAP_INGAME_INFO_DESCRIPTION": [
-    "&f{ORDER}. {MAP_NAME}",
+    "",
     "&f-> Deine Statistiken: {PLAYER_TIME},#{PLAYER_RANK} ({PLAYER_WINRATE}%)"
   ],
   "NOTENOUGH_MAP_HOSTCREATOR": "&cSie benötigen mindestens 1 Karte, um einen Host zu erstellen",
@@ -1264,8 +1264,8 @@ Dateien, die mit mehreren Übersetzungs-Websites übersetzt wurden Das Ziel dies
   "GUI_ITEM_PARTICLE_TITLE": "&f{PARTICLE_NAME}",
   "GUI_ITEM_PARTICLE_TITLE_SELECTED": "&a{PARTICLE_NAME}",
   "GUI_NO_PARTICLE": "Keine",
-  "GUI_DISABLE_OTHERS_PARTICLES_UNSELECTED": "&fDie Änderungen wurden erfolgreich gespeichert.",
-  "GUI_DISABLE_OTHERS_PARTICLES_SELECTED": "&fDie Änderungen wurden erfolgreich gespeichert.",
+  "GUI_DISABLE_OTHERS_PARTICLES_UNSELECTED": "&fAndere Partikel deaktivieren",
+  "GUI_DISABLE_OTHERS_PARTICLES_SELECTED": "&fAndere Partikel deaktivieren",
   "GUI_DISABLE_OTHERS_PARTICLES_LORE_SELECTED": "&f-> Derzeit: &a✓",
   "GUI_DISABLE_OTHERS_PARTICLES_LORE_UNSELECTED": "&f-> Derzeit: &c❌",
   "MSG_SAVE_SUCCESSFUL": "&fEs wurden Änderungen",
