@@ -1,7 +1,7 @@
 # 🇪🇸 Spanish
 
 {% hint style="warning" %}
-Files translated multiple translation websites
+Files translated using multiple translation websites
 
 The goal of this translation is not to have the perfect on but to have a version that will help you to start to configure the plugin in the language you want
 
@@ -9,9 +9,7 @@ If you see bad translations please send me a message on discord
 {% endhint %}
 
 {% hint style="warning" %}
-Archivos traducidos múltiples sitios web de traducción&#x20;
-
-El objetivo de esta traducción no es tener el complemento perfecto sino tener una versión que te ayude a comenzar a configurar el plugin en el idioma que desees. Si ves malas traducciones por favor envíame un mensaje en discord
+Archivos traducidos usando múltiples sitios web de traducción El objetivo de esta traducción no es tener el complemento perfecto sino tener una versión que te ayude a comenzar a configurar el plugin en el idioma que desees. Si ves malas traducciones por favor envíame un mensaje en discord
 {% endhint %}
 
 <details>
