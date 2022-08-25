@@ -59,6 +59,7 @@
 * [🇬🇧 English](config-translated-version/english.md)
 * [🇨🇳 Chinese](config-translated-version/chinese.md)
 * [🇪🇸 Spanish](config-translated-version/spanish.md)
+* [🇩🇪 German](config-translated-version/german.md)
 
 ## Other
 
