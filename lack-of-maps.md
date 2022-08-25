@@ -27,6 +27,8 @@ World size: **1300+ X 700+**
 
 Versions: **1.9 to 1.17+**
 
+**For 1.18-1.19 and above: If you have any problems load the map in the version in solo and then import it on your server**&#x20;
+
 **More information:** [**https://www.mc-market.org/resources/20660/**](https://www.mc-market.org/resources/20660/)****
 
 ➡️ **Presentation video:** [**https://youtu.be/sMTJLbOzoug**](https://youtu.be/sMTJLbOzoug)****
@@ -54,6 +56,8 @@ Made for ElytraRacing?: **Yes.**
 Preset maps: 3**.**
 
 Versions: **1.12 to 1.17+**
+
+**For 1.18-1.19 and above: If you have any problems load the map in the version in solo and then import it on your server**&#x20;
 
 World size: **1150+ X 300+**
 
