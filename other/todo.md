@@ -16,3 +16,4 @@
 * Gui configuration messages: ✅ (1.0.5)  "AdminGUI.json"
 * OneGame system: ✅ (1.0.7) : [https://chooseit.io/er/doc/tutorials/onegame-server](https://chooseit.io/er/doc/tutorials/onegame-server)
 * Scoreboard in game: ✅  (1.1.0)
+* Particle system: ✅  (1.5.0)
