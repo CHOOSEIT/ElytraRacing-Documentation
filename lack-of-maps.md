@@ -14,6 +14,8 @@ If you want to add a map setup on your server but there is no folder named "maps
 
 ## 1 - UnderSea
 
+<figure><img src="https://imgur.com/sNK8PId.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="success" %}
 Cost: **11,99€**
 
@@ -30,7 +32,19 @@ Versions: **1.9 to 1.17+**
 ➡️ **Presentation video:** [**https://youtu.be/sMTJLbOzoug**](https://youtu.be/sMTJLbOzoug)****
 {% endhint %}
 
+<div>
+
+<figure><img src="https://imgur.com/R765scD.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="https://imgur.com/or1PK4K.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ## 2 - Cavern
+
+<figure><img src="https://imgur.com/iWfGZQv.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Cost: **7,99€**
@@ -47,6 +61,16 @@ World size: **1150+ X 300+**
 
 ➡️ **Presentation video:** [**https://youtu.be/ZHuNw4JROwU**](https://youtu.be/ZHuNw4JROwU)****
 {% endhint %}
+
+<div>
+
+<figure><img src="https://imgur.com/xaHt6Qs.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="https://imgur.com/hcj7JPj.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## **3 - Oriental-Steampunk**
 
