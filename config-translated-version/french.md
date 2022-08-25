@@ -1,3 +1,7 @@
+---
+description: 'Version: 1.5.1'
+---
+
 # 🇫🇷 French
 
 {% hint style="warning" %}

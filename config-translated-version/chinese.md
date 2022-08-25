@@ -1,8 +1,12 @@
-# Chinese
+---
+description: 'Version: 0.7.1-BETA'
+---
+
+# 🇨🇳 Chinese
 
 {% hint style="success" %}
-Translated by: **C-095\#1669**  
-File translated: **Config.json**  
+Translated by: **C-095#1669**\
+File translated: **Config.json**\
 **Plugin version: 0.7.1-BETA**
 {% endhint %}
 
@@ -462,6 +466,4 @@ File translated: **Config.json**
   ]
 }
 ```
-
-
 
