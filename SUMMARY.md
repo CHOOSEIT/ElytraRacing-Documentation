@@ -46,10 +46,14 @@
 
 ## FAQ
 
-* [❓ How do I add a map preset to my server?](faq/how-do-i-add-a-map-preset-to-my-server.md)
+* [❓ How to create a new particle ?](faq/how-to-create-a-new-particle.md)
+* [❓ How do I add a map preset to my server ?](faq/how-do-i-add-a-map-preset-to-my-server.md)
 * [❓ How do I create an hosted game ?](faq/how-do-i-create-an-hosted-game.md)
 * [❓ How do I create a game that run automatically ?](faq/how-do-i-create-a-game-that-run-automatically.md)
 * [❓ How to create holograms ?](faq/how-to-create-holograms.md)
+* [❓ How do I get an item format for ElytraRacing ?](faq/how-do-i-get-an-item-format-for-elytraracing.md)
+* [❓ How can I make a joinable list of autogames ?](faq/how-can-i-make-a-joinable-list-of-autogames.md)
+* [❓ How to connect ElytraRacing to my MySQL ?](faq/how-to-connect-elytraracing-to-my-mysql.md)
 
 ## Dependencies
 

@@ -12,10 +12,6 @@ If you want other languages look at this page:
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-Help commands messages and admin commands messages can't be translated or modified
-{% endhint %}
-
 
 
 
