@@ -63,6 +63,7 @@
 ## Config translated version
 
 * [🇬🇧 English](config-translated-version/english.md)
+* [🇰🇷 Korean](config-translated-version/korean.md)
 * [🇪🇸 Spanish](config-translated-version/spanish.md)
 * [🇩🇪 German](config-translated-version/german.md)
 * [🇫🇷 French](config-translated-version/french.md)
