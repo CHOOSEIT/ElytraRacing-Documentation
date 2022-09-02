@@ -43,6 +43,12 @@ ElytraRacing trailer
 
 ### Important information
 
+{% hint style="success" %}
+ElytraRacing is using bStats: [https://bstats.org/plugin/bukkit/ElytraRacing/9797](https://bstats.org/plugin/bukkit/ElytraRacing/9797)
+
+You can desactivate it in file plugins/bStats/config.yml
+{% endhint %}
+
 | Feature             | Specific version | Information                                                                                                                                                                                                |
 | ------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Fireworks in podium | 1.10+            |                                                                                                                                                                                                            |

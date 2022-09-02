@@ -28,27 +28,31 @@ We are going to work in the file: ElytraRacing/particles/particleConfig.json
 
 ```
 {
-      "name": "RainbowCircle",
-      "enable": true,
-      "particle": "REDSTONE",
-      "item": "GOLDEN_APPLE:0",
-      "shapeParticle": [
-        {
-          "key": "SHAPE_CIRCLE",
-          "option": "20;0.66"
-        },
-        {
-          "key": "MASK_PLAYERFOLLOW",
-          "option": ""
-        }
-      ],
-      "colorCreator": [
-        {
-          "key": "RAINBOW",
-          "option": "10000;true"
-        }
-      ]
-    }
+    "name": "RainbowCircle",
+    "enable": true,
+    "particle": "REDSTONE",
+    "removeFromPlayableSet": false,
+    "item": "GOLDEN_APPLE:0",
+    "showWithParticle": [
+        "<ANOTHER PARTICLE>", "<ANOTHER PARTICLE2>"
+    ],
+    "shapeParticle": [
+      {
+        "key": "SHAPE_CIRCLE",
+        "option": "20;0.66"
+      },
+      {
+        "key": "MASK_PLAYERFOLLOW",
+        "option": ""
+      }
+    ],
+    "colorCreator": [
+      {
+        "key": "RAINBOW",
+        "option": "10000;true"
+      }
+    ]
+}
 ```
 
 Follow:&#x20;

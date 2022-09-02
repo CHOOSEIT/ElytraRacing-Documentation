@@ -13,7 +13,11 @@ description: Here you will learn how to use every parameters of the particle cre
     "name": "RainbowCircle",
     "enable": true,
     "particle": "REDSTONE",
+    "removeFromPlayableSet": false,
     "item": "GOLDEN_APPLE:0",
+    "showWithParticle": [
+        "<ANOTHER PARTICLE>", "<ANOTHER PARTICLE2>"
+    ],
     "shapeParticle": [
       {
         "key": "SHAPE_CIRCLE",
@@ -57,6 +61,18 @@ Test your work:&#x20;
 
 It will apply directly to you the particles after the **/erconfig reload**
 {% endhint %}
+
+### New Particle Association ! (showWith and removeFromPlayableSet)
+
+**showWith** is a new parameter that allow you to display multiple particle at once (that way you are able to create particle that have multiple section for example and each has its own shape and color)&#x20;
+
+{% hint style="info" %}
+Particle associated to a particle must be in the list of particle above the one you are working on and ENABLED !
+{% endhint %}
+
+**removeFromPlayableSet**  is a new parameter that allow you linked to **showWith** to create particle that won't be able to be played by players in game (Only by associating them with others)
+
+
 
 {% hint style="danger" %}
 Options of shape and color creator are separated by **;**
