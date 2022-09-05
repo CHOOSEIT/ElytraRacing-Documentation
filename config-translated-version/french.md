@@ -226,7 +226,7 @@ Si vous voyez de mauvaises traductions merci de m'envoyer un message sur discord
   "ER_PLAY_GAME": "&cAucun jeu n'a été trouvé !",
   "MSG_STEP_TIMER": {
     "0": "Votre jeu commence...",
-    "1": "Votre jeu commence dans &f1 &fdeuxième",
+    "1": "Votre jeu commence dans &f1 &fseconde",
     "2": "Votre jeu commence dans &a2 &fsecondes",
     "3": "Votre jeu commence dans &23 &fsecondes",
     "4": "Votre jeu commence dans &64 &fsecondes",
@@ -236,7 +236,7 @@ Si vous voyez de mauvaises traductions merci de m'envoyer un message sur discord
   },
   "MSG_STEPROUND_TIMER": {
     "0": "Le prochain tour commence...",
-    "1": "Le prochain tour commence en &f1 &fdeuxième",
+    "1": "Le prochain tour commence en &f1 &fseconde",
     "2": "Le prochain tour commence en &a2 &fsecondes",
     "3": "Le prochain tour commence en &23 &fsecondes",
     "4": "Le prochain tour commence en &64 &fsecondes",
