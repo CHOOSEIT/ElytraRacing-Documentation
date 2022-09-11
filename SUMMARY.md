@@ -56,6 +56,7 @@
 * [❓ How can I make a joinable list of autogames ?](faq/how-can-i-make-a-joinable-list-of-autogames.md)
 * [❓ How to connect ElytraRacing to my MySQL ?](faq/how-to-connect-elytraracing-to-my-mysql.md)
 * [❓ How can I give rewards to my players ?](faq/how-can-i-give-rewards-to-my-players.md)
+* [❓ Install a world](faq/install-a-world.md)
 
 ## Dependencies
 
