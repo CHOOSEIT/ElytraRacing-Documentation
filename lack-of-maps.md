@@ -9,7 +9,7 @@ If you want to add a map setup on your server but there is no folder named "maps
 {% endhint %}
 
 {% hint style="info" %}
-Follow this tutorial if you have some issues installing the world
+Follow this [tutorial](https://chooseit.gitbook.io/elytraracing/faq/install-a-world) if you have some issues installing the world
 {% endhint %}
 
 {% hint style="info" %}

@@ -1,4 +1,4 @@
-# ❓ Install a world
+# ❓ How can I install a world on my server ?
 
 {% hint style="info" %}
 To install a world on a server we recommend to use multiverse-core [plugin](https://www.spigotmc.org/resources/multiverse-core.390/?\_\_cf\_chl\_tk=GmLfrVVBuHcX45YrvYZr4gU\_1nHpddVebab9TQNQ1IE-1662878209-0-gaNycGzNCL0)
