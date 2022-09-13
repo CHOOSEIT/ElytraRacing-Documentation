@@ -14,6 +14,8 @@ ElytraRacing is a high-quality mini-game Minecraft plugin perfect for every serv
 
 You will see that with a little bit of necessary configuration, you will play games with friends, and you will play elytra race all the time ! You'll crave for more races to beat your own records and your friends !
 
+{% embed url="https://www.youtube.com/channel/UCY32Re3dWEFTXAHlXDWVOdQ" %}
+
 **ElytraRacing support SQLite and MySQL**
 
 ## Trailer
