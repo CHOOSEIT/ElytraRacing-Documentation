@@ -7,6 +7,7 @@
 * [🏁 Lack of maps ?](lack-of-maps.md)
 * [👁 Default Config Files](default-config-files.md)
 * [🗒 Step by step installation](step-by-step-installation.md)
+* [🏁 Servers using ElytraRacing](servers-using-elytraracing.md)
 
 ## Commands
 
