@@ -6,6 +6,10 @@ If you want to contribute to the translation of ElytraRacing, send me your trans
 If you find a mistake send me a message :)
 {% endhint %}
 
+{% hint style="info" %}
+If a translation comes from a previous version, the translation will still work with newer files.
+{% endhint %}
+
 Current translations of ElytraRacing: (Some automated)
 
 {% content-ref url="english.md" %}
