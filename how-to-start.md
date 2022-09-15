@@ -72,5 +72,11 @@ Killing the process which maintains your server open while a game of ElytraRacin
 To update the plugin on your server we recommend to stop your server, replace the plugin ElytraRacing with the new version and restart the server
 {% endhint %}
 
+## Step-by-Step installation:&#x20;
+
+{% content-ref url="step-by-step-installation.md" %}
+[step-by-step-installation.md](step-by-step-installation.md)
+{% endcontent-ref %}
+
 
 
