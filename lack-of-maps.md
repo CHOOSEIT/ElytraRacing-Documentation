@@ -21,8 +21,6 @@ Follow this [tutorial](https://chooseit.gitbook.io/elytraracing/faq/how-can-i-in
 <figure><img src="https://imgur.com/sNK8PId.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Cost: **11,99€**
-
 Made for ElytraRacing?: **Yes.**
 
 Preset maps: **4.**
@@ -53,8 +51,6 @@ Versions: **1.9 to 1.17+**
 <figure><img src="https://imgur.com/iWfGZQv.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Cost: **7,99€**
-
 Made for ElytraRacing?: **Yes.**
 
 Preset maps: 3**.**
@@ -83,8 +79,6 @@ World size: **1150+ X 300+**
 ## **3 - Oriental-Steampunk**
 
 {% hint style="success" %}
-Cost: **Free**
-
 Made for ElytraRacing?: **No.**
 
 Preset maps: 4**.**
