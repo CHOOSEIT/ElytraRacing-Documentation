@@ -16,7 +16,59 @@ Follow this [tutorial](https://chooseit.gitbook.io/elytraracing/faq/how-can-i-in
 **Install and play !**
 {% endhint %}
 
-## 1 - UnderSea
+<figure><img src="https://imgur.com/aW08zok.jpg" alt=""><figcaption></figcaption></figure>
+
+## 1 - ElytraPark
+
+<figure><img src="https://imgur.com/xdJY2zW.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+Made for ElytraRacing?: **Yes**
+
+Preset maps: **6.**
+
+World size: **400x400**
+
+Version: **1.18 and above**
+
+**More information:** [**https://builtbybit.com/resources/elytra-race-elytrapark-500x500.25168/**](https://builtbybit.com/resources/elytra-race-elytrapark-500x500.25168/)****
+
+****
+
+**➡️ Presentation video/trailer:** [**https://youtu.be/9WtFYVT3l78**](https://youtu.be/9WtFYVT3l78)****
+
+****
+
+**➡️ All preset map run:** [**https://youtu.be/-UWHUIj2Dio**](https://youtu.be/-UWHUIj2Dio)****
+
+**➡️ Each preset map short playlist:** [**https://youtube.com/playlist?list=PLcS1oJqwBtUVze3VNyJvuwKp1mwr6C0JU**](https://youtube.com/playlist?list=PLcS1oJqwBtUVze3VNyJvuwKp1mwr6C0JU)****
+{% endhint %}
+
+**The map is a world not a schematic, (the build is surrounded by water)**
+
+World size: **400x400 (Builded) and the rest is water**
+
+<figure><img src="https://imgur.com/OaqVO8Q.png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="https://imgur.com/cFWuu0Y.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="https://imgur.com/qD7sBiL.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="https://imgur.com/kqFWIlR.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="https://imgur.com/4rjNuMy.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+## 2 - UnderSea
 
 <figure><img src="https://imgur.com/sNK8PId.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +98,7 @@ Versions: **1.9 to 1.17+**
 
 </div>
 
-## 2 - Cavern
+## 3 - Cavern
 
 <figure><img src="https://imgur.com/iWfGZQv.png" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +128,7 @@ World size: **1150+ X 300+**
 
 </div>
 
-## **3 - Oriental-Steampunk**
+## **4 - Oriental-Steampunk**
 
 {% hint style="success" %}
 Made for ElytraRacing?: **No.**
