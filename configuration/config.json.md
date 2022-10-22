@@ -140,6 +140,10 @@ This mean that the **console** will execute the command **/give {SELF\_PLAYER} m
 "-999" Means that every players that don't have commands here will execute command
 {% endhint %}
 
+{% hint style="success" %}
+Note that "§%§" separate 2 commands
+{% endhint %}
+
 ## OneGame
 
 More information [here](https://chooseit.gitbook.io/elytraracing/tutorials/onegame-server)
