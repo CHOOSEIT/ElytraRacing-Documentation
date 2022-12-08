@@ -40,8 +40,6 @@ Version: **1.18 and above**
 ****
 
 **➡️ All preset map run:** [**https://youtu.be/-UWHUIj2Dio**](https://youtu.be/-UWHUIj2Dio)****
-
-**➡️ Each preset map short playlist:** [**https://youtube.com/playlist?list=PLcS1oJqwBtUVze3VNyJvuwKp1mwr6C0JU**](https://youtube.com/playlist?list=PLcS1oJqwBtUVze3VNyJvuwKp1mwr6C0JU)****
 {% endhint %}
 
 **The map is a world not a schematic, (the build is surrounded by water)**
