@@ -1,7 +1,5 @@
----
-description: 'IP: test.elytraracing.chooseit.io in 1.16.5'
----
-
 # 😂 Test server
 
-<figure><img src="https://imgur.com/BBTgpiL.jpg" alt=""><figcaption></figcaption></figure>
+Test server provided by BuildbyBits:&#x20;
+
+[https://builtbybit.com/resources/elytraracing-elytra-race-mini-game.19110/#tab-testServer](https://builtbybit.com/resources/elytraracing-elytra-race-mini-game.19110/#tab-testServer)

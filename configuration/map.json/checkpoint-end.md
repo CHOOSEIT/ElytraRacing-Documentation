@@ -29,4 +29,3 @@ Most of the configuration can be done from commands. [here](https://chooseit.git
 Example: Reduce player speed by 5% : **boostMultiplier: -0.95**
 {% endhint %}
 
-****

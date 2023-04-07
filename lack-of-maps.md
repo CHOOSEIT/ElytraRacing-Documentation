@@ -31,15 +31,15 @@ World size: **400x400**
 
 Version: **1.18 and above**
 
-**More information:** [**https://builtbybit.com/resources/elytra-race-elytrapark-500x500.25168/**](https://builtbybit.com/resources/elytra-race-elytrapark-500x500.25168/)****
+**More information:** [**https://builtbybit.com/resources/elytra-race-elytrapark-500x500.25168/**](https://builtbybit.com/resources/elytra-race-elytrapark-500x500.25168/)
 
-****
 
-**➡️ Presentation video/trailer:** [**https://youtu.be/9WtFYVT3l78**](https://youtu.be/9WtFYVT3l78)****
 
-****
+**➡️ Presentation video/trailer:** [**https://youtu.be/9WtFYVT3l78**](https://youtu.be/9WtFYVT3l78)
 
-**➡️ All preset map run:** [**https://youtu.be/-UWHUIj2Dio**](https://youtu.be/-UWHUIj2Dio)****
+
+
+**➡️ All preset map run:** [**https://youtu.be/-UWHUIj2Dio**](https://youtu.be/-UWHUIj2Dio)
 {% endhint %}
 
 **The map is a world not a schematic, (the build is surrounded by water)**
@@ -81,9 +81,9 @@ Versions: **1.9 to 1.17+**
 
 **For 1.18-1.19 and above: If you have any problems load the map in the version in solo and then import it on your server**&#x20;
 
-**More information:** [**https://www.mc-market.org/resources/20660/**](https://www.mc-market.org/resources/20660/)****
+**More information:** [**https://www.mc-market.org/resources/20660/**](https://www.mc-market.org/resources/20660/)
 
-➡️ **Presentation video:** [**https://youtu.be/sMTJLbOzoug**](https://youtu.be/sMTJLbOzoug)****
+➡️ **Presentation video:** [**https://youtu.be/sMTJLbOzoug**](https://youtu.be/sMTJLbOzoug)
 {% endhint %}
 
 <div>
@@ -111,9 +111,9 @@ Versions: **1.12 to 1.17+**
 
 World size: **1150+ X 300+**
 
-**More information:** [**https://www.mc-market.org/resources/20667/**](https://www.mc-market.org/resources/20667/)****
+**More information:** [**https://www.mc-market.org/resources/20667/**](https://www.mc-market.org/resources/20667/)
 
-➡️ **Presentation video:** [**https://youtu.be/ZHuNw4JROwU**](https://youtu.be/ZHuNw4JROwU)****
+➡️ **Presentation video:** [**https://youtu.be/ZHuNw4JROwU**](https://youtu.be/ZHuNw4JROwU)
 {% endhint %}
 
 <div>
@@ -135,11 +135,10 @@ Preset maps: 4**.**
 
 Versions: **1.12**
 
-**This map is free to use, more information here:** [**https://www.planetminecraft.com/project/oriental-steampunk-map-pack-free-to-use/**](https://www.planetminecraft.com/project/oriental-steampunk-map-pack-free-to-use/)****
+**This map is free to use, more information here:** [**https://www.planetminecraft.com/project/oriental-steampunk-map-pack-free-to-use/**](https://www.planetminecraft.com/project/oriental-steampunk-map-pack-free-to-use/)
 
-**Preset + map:** [**https://www.mediafire.com/file/9q34zrprkcuefi1/ElytraRacing+Preset+Oriental+Steampunk.zip/file**](https://www.mediafire.com/file/9q34zrprkcuefi1/ElytraRacing+Preset+Oriental+Steampunk.zip/file)****
+**Preset + map:** [**https://www.mediafire.com/file/9q34zrprkcuefi1/ElytraRacing+Preset+Oriental+Steampunk.zip/file**](https://www.mediafire.com/file/9q34zrprkcuefi1/ElytraRacing+Preset+Oriental+Steampunk.zip/file)
 
-➡️ **Presentation video:** [**https://youtu.be/UgbWxTwgzj4**](https://youtu.be/UgbWxTwgzj4)****
+➡️ **Presentation video:** [**https://youtu.be/UgbWxTwgzj4**](https://youtu.be/UgbWxTwgzj4)
 {% endhint %}
 
-****

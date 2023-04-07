@@ -14,4 +14,3 @@ You can configure every holograms through the Holograms.json file
 
 
 
-****
