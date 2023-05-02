@@ -16,8 +16,6 @@ Follow this [tutorial](https://chooseit.gitbook.io/elytraracing/faq/how-can-i-in
 **Install and play !**
 {% endhint %}
 
-<figure><img src="https://imgur.com/aW08zok.jpg" alt=""><figcaption></figcaption></figure>
-
 ## 1 - ElytraPark
 
 <figure><img src="https://imgur.com/xdJY2zW.png" alt=""><figcaption></figcaption></figure>
