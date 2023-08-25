@@ -24,6 +24,10 @@ You will see that with a little bit of necessary configuration, you will play ga
 ElytraRacing trailer
 {% endembed %}
 
+
+
+## <mark style="color:red;">Build-in holograms are no longer available for versions >= 1.19</mark>
+
 ## Find the plugin (PREMIUM)
 
 &#x20;**You can find the plugin here:**
@@ -57,11 +61,11 @@ ElytraRacing is using bStats: [https://bstats.org/plugin/bukkit/ElytraRacing/979
 You can desactivate it in file plugins/bStats/config.yml
 {% endhint %}
 
-| Feature             | Specific version | Information                                                                                                                                                                                                |
-| ------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fireworks in podium | 1.10+            |                                                                                                                                                                                                            |
-| Holograms           | 1.10+            |                                                                                                                                                                                                            |
-| Replay system       |                  | <p>This system is a bonus feature. This system is not perfect !</p><p></p><p><strong>Removed feature in 1.1.2 version</strong></p><p><strong>(I can not get this feature stable and reliable)</strong></p> |
+| Feature             | Specific version                              | Information                                                                                                                                                                                                |
+| ------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fireworks in podium | 1.10+                                         |                                                                                                                                                                                                            |
+| Holograms           | 1.10+ to <mark style="color:red;">1.18</mark> | <mark style="color:red;">Build-in holograms are no longer support directly please use PlaceHolders !</mark>                                                                                                |
+| Replay system       |                                               | <p>This system is a bonus feature. This system is not perfect !</p><p></p><p><strong>Removed feature in 1.1.2 version</strong></p><p><strong>(I can not get this feature stable and reliable)</strong></p> |
 
 {% hint style="warning" %}
 A player who has left a started game can no longer join it.

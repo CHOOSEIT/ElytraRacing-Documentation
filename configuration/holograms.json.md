@@ -4,6 +4,10 @@ description: Here you will learn everything about the Holograms.json file
 
 # ⚙ Holograms.json
 
+{% hint style="danger" %}
+<mark style="color:red;">Holograms are no longer available for version >= 1.19</mark>
+{% endhint %}
+
 | Variable       | Description                                                     |
 | -------------- | --------------------------------------------------------------- |
 | x, y, z        | Coordinates of the hologram                                     |

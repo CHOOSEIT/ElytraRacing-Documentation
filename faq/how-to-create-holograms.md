@@ -1,5 +1,9 @@
 # ❓ How to create holograms ?
 
+{% hint style="danger" %}
+<mark style="color:red;">Holograms are no longer available for version >= 1.19</mark>
+{% endhint %}
+
 {% hint style="info" %}
 This system does not depends on another plugin
 {% endhint %}
