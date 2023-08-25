@@ -28,8 +28,8 @@ ElytraRacing trailer
 
 &#x20;**You can find the plugin here:**
 
-* ****[**https://www.spigotmc.org/resources/%E2%9C%A8elytraracing%E2%9C%A8-custom-elytra-race-1-9-2-1-16-4-%E2%9C%85.85278/**](https://www.spigotmc.org/resources/%E2%9C%A8elytraracing%E2%9C%A8-custom-elytra-race-1-9-2-1-16-4-%E2%9C%85.85278/)****
-* ****[**https://www.mc-market.org/resources/19110/**](https://www.mc-market.org/resources/19110/)****
+* [**https://www.spigotmc.org/resources/%E2%9C%A8elytraracing%E2%9C%A8-custom-elytra-race-1-9-2-1-16-4-%E2%9C%85.85278/**](https://www.spigotmc.org/resources/%E2%9C%A8elytraracing%E2%9C%A8-custom-elytra-race-1-9-2-1-16-4-%E2%9C%85.85278/)
+* [**https://builtbybit.com/resources/elytraracing-elytra-race-mini-game.19110/**](https://builtbybit.com/resources/elytraracing-elytra-race-mini-game.19110/)
 
 Step by Step installation:&#x20;
 

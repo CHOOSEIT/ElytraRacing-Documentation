@@ -29,7 +29,7 @@ World size: **400x400**
 
 Version: **1.18 and above**
 
-**More information:** [**https://builtbybit.com/resources/elytra-race-elytrapark-500x500.25168/**](https://builtbybit.com/resources/elytra-race-elytrapark-500x500.25168/)
+**More information:** [**https://builtbybit.com/resources/elytrapark-elytra-race-500x500.25168**](https://builtbybit.com/resources/elytrapark-elytra-race-500x500.25168)
 
 
 
@@ -79,12 +79,12 @@ Versions: **1.9 to 1.17+**
 
 **For 1.18-1.19 and above: If you have any problems load the map in the version in solo and then import it on your server**&#x20;
 
-**More information:** [**https://www.mc-market.org/resources/20660/**](https://www.mc-market.org/resources/20660/)
+**More information:** [**https://builtbybit.com/resources/undersea-elytra-race-1300x700.20660**](https://builtbybit.com/resources/undersea-elytra-race-1300x700.20660)
 
 ➡️ **Presentation video:** [**https://youtu.be/sMTJLbOzoug**](https://youtu.be/sMTJLbOzoug)
 {% endhint %}
 
-<div>
+<div align="left">
 
 <figure><img src="https://imgur.com/R765scD.png" alt=""><figcaption></figcaption></figure>
 
@@ -96,7 +96,11 @@ Versions: **1.9 to 1.17+**
 
 ## 3 - Cavern
 
+<div align="left">
+
 <figure><img src="https://imgur.com/iWfGZQv.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="success" %}
 Made for ElytraRacing?: **Yes.**
@@ -109,7 +113,7 @@ Versions: **1.12 to 1.17+**
 
 World size: **1150+ X 300+**
 
-**More information:** [**https://www.mc-market.org/resources/20667/**](https://www.mc-market.org/resources/20667/)
+**More information:** [**https://builtbybit.com/resources/cavern-elytra-race-1150x300.20667**](https://builtbybit.com/resources/cavern-elytra-race-1150x300.20667)
 
 ➡️ **Presentation video:** [**https://youtu.be/ZHuNw4JROwU**](https://youtu.be/ZHuNw4JROwU)
 {% endhint %}
