@@ -6,6 +6,8 @@ coverY: 0
 
 # 👋 General information
 
+## <mark style="color:red;">The project is DISCONTINUED</mark>
+
 ## What is ElytraRacing ?
 
 ElytraRacing is a high-quality mini-game Minecraft plugin perfect for every server. It allows you to create and host a game of a set of races. This plugin creates memorable moments and is fun to play while remaining competitive !
