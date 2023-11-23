@@ -1,0 +1,212 @@
+{
+  "ENABLE": false,
+  "INTERVAL_PERSONAL_PARTICLE_REFRESH": 1,
+  "GUI_PARTICLE_TITLE": "粒子选择器",
+  "GUI_ITEM_PARTICLE_TITLE": "&f{PARTICLE_NAME}",
+  "GUI_ITEM_PARTICLE_TITLE_SELECTED": "&a{PARTICLE_NAME}",
+  "GUI_NO_PARTICLE": "None",
+  "GUI_DISABLE_OTHERS_PARTICLES_UNSELECTED": "&f禁用其他粒子",
+  "GUI_DISABLE_OTHERS_PARTICLES_SELECTED": "&f禁用其他粒子",
+  "GUI_DISABLE_OTHERS_PARTICLES_LORE_SELECTED": "&f-> Currently: &a✓",
+  "GUI_DISABLE_OTHERS_PARTICLES_LORE_UNSELECTED": "&f-> Currently: &c❌",
+  "MSG_SAVE_SUCCESSFUL": "&f更改&a已成功&f保存",
+  "GUI_CLICKCHANGE": "点击此处更改页面",
+  "GUI_ENCHANT_SELECTED": true,
+  "particles": [
+    {
+      "name": "绿色圆圈",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "TOTEM",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_CIRCLE",
+          "option": "7;1"
+        },
+        {
+          "key": "MASK_PLAYERFOLLOW",
+          "option": ""
+        }
+      ],
+      "colorCreator": null
+    },
+    {
+      "name": "旋转的彩虹圈",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_CIRCLE",
+          "option": "7;1"
+        },
+        {
+          "key": "MASK_Z_ROTATION",
+          "option": "10000;true"
+        },
+        {
+          "key": "MASK_PLAYERFOLLOW",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "RAINBOW",
+          "option": "15000;true"
+        }
+      ]
+    },
+    {
+      "name": "彩虹点",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_POINT",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "RAINBOW",
+          "option": "15000;true"
+        }
+      ]
+    },
+    {
+      "name": "红点",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_POINT",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "CONSTANT",
+          "option": "255;0;0"
+        }
+      ]
+    },
+    {
+      "name": "水平波浪",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_CIRCLE",
+          "option": "7;0.75"
+        },
+        {
+          "key": "MASK_X_ROTATION",
+          "option": "7000;true"
+        },
+        {
+          "key": "MASK_PLAYERFOLLOW",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "CONSTANT",
+          "option": "0;153;255"
+        }
+      ]
+    },
+    {
+      "name": "垂直波浪点",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_CIRCLE",
+          "option": "1;0.75"
+        },
+        {
+          "key": "MASK_Y_ROTATION",
+          "option": "1000;true"
+        },
+        {
+          "key": "MASK_PLAYERFOLLOW",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "CONSTANT",
+          "option": "0;153;255"
+        }
+      ]
+    },
+    {
+      "name": "彩虹管道",
+      "enable": true,
+      "removeFromPlayableSet": false,
+      "particle": "REDSTONE",
+      "item": "PAPER",
+      "showWithParticle": [
+        "",
+        "",
+        ""
+      ],
+      "shapeParticle": [
+        {
+          "key": "SHAPE_CIRCLE",
+          "option": "20;0.66"
+        },
+        {
+          "key": "MASK_PLAYERFOLLOW",
+          "option": ""
+        }
+      ],
+      "colorCreator": [
+        {
+          "key": "RAINBOW",
+          "option": "10000;true"
+        }
+      ]
+    }
+  ]
+}

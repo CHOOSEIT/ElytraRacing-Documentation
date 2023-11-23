@@ -1,8 +1,32 @@
 ---
-description: 'Version: 0.7.1-BETA'
+description: 'Version: 1.5.3.17'
 ---
 
 # 🇨🇳 Chinese
+
+{% hint style="success" %}
+Translated by: **jhqwqmc (Discord: jhqwqmc)**\
+File translated: **AdminGUI.json, particuleConfig.json, Config.json, Scoreboard.json**\
+**Plugin version: 1.5.3.17**
+{% endhint %}
+
+_Download the files and rename them as their original names (AdminGUI.json, particuleConfig.json, Config.json, Scoreboard.json)_
+
+{% file src="../.gitbook/assets/AdminGUI_Chinese.json" %}
+AdminGUI.json
+{% endfile %}
+
+{% file src="../.gitbook/assets/particleConfig_Chinese.json" %}
+particleConfig.json
+{% endfile %}
+
+{% file src="../.gitbook/assets/Config_Chinese.json" %}
+Config.json
+{% endfile %}
+
+{% file src="../.gitbook/assets/Scoreboard_Chinese.json" %}
+Scoreboard.json
+{% endfile %}
 
 {% hint style="success" %}
 Translated by: **C-095#1669**\

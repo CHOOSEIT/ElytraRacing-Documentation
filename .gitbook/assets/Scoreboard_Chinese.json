@@ -1,0 +1,455 @@
+{
+  "Enable": false,
+  "TickReloadInterval": 20,
+  "link": "chooseit.io/er",
+  "RaceMode": {
+    "perState": {
+      "SPECTATOR": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "剩余时间: &c{TIME_LEFT}",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "",
+          "&e第一名 - {RACE_RANK_PLAYER_1}",
+          "&7第二名 - {RACE_RANK_PLAYER_2}",
+          "&6第三名 - {RACE_RANK_PLAYER_3}",
+          "&f第四名 - {RACE_RANK_PLAYER_4}",
+          "&f第五名 - {RACE_RANK_PLAYER_5}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "WAITING": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&f地图: {CURRENT_MAP}",
+          "&f模式: &a竞速",
+          "",
+          "&c需要{NEEDED_PLAYER}位玩家才能开始",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_WAITING": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&f地图: {CURRENT_MAP}",
+          "&f模式: &a竞速",
+          "",
+          "房间: {HOST}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "STARTING": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&f地图: {CURRENT_MAP}",
+          "&f模式: &a竞速",
+          "",
+          "&c{STARTING_COUNTDOWN}秒后开始",
+          "",
+          "{LINK}"
+        ]
+      },
+      "STARTED": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "剩余时间: &c{TIME_LEFT}",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "",
+          "&e第一名 - {RACE_RANK_PLAYER_1}",
+          "&7第二名 - {RACE_RANK_PLAYER_2}",
+          "&6第三名 - {RACE_RANK_PLAYER_3}",
+          "你的排名: {SELF_RACE_RANK_PLAYER}",
+          "",
+          "检查点: &6{SELF_CPS}/{MAX_CPS}",
+          "圈数: &6{SELF_LAPS}/{MAX_LAPS}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "FINISHED": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "&e第一名 - {RANK_PLAYER_1}",
+          "&7第二名 - {RANK_PLAYER_2}",
+          "&6第三名 - {RANK_PLAYER_3}",
+          "你的排名: {SELF_RANK_PLAYER}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "SPECTATOR_FINISHED": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "&e第一名 - {RANK_PLAYER_1}",
+          "&7第二名 - {RANK_PLAYER_2}",
+          "&6第三名 - {RANK_PLAYER_3}",
+          "&f第四名 - {RANK_PLAYER_4}",
+          "&f第五名 - {RANK_PLAYER_5}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_FINISHED": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "&e第一名 - {RANK_PLAYER_1}",
+          "&7第二名 - {RANK_PLAYER_2}",
+          "&6第三名 - {RANK_PLAYER_3}",
+          "你的排名: {SELF_RANK_PLAYER}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_SPECTATOR": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "剩余时间: &c{TIME_LEFT}",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "",
+          "&e第一名 - {RACE_RANK_PLAYER_1}",
+          "&7第二名 - {RACE_RANK_PLAYER_2}",
+          "&6第三名 - {RACE_RANK_PLAYER_3}",
+          "&f第四名 - {RACE_RANK_PLAYER_4}",
+          "&f第五名 - {RACE_RANK_PLAYER_5}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_STARTING": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&f地图: {CURRENT_MAP}",
+          "&f模式: &a竞赛",
+          "",
+          "房间: {HOST}",
+          "&c{STARTING_COUNTDOWN}秒后开始",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_SPECTATOR_FINISHED": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "&e第一名 - {RANK_PLAYER_1}",
+          "&7第二名 - {RANK_PLAYER_2}",
+          "&6第三名 - {RANK_PLAYER_3}",
+          "&f第四名 - {RANK_PLAYER_4}",
+          "&f第五名 - {RANK_PLAYER_5}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_STARTED": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "剩余时间: &c{TIME_LEFT}",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "",
+          "&e第一名 - {RACE_RANK_PLAYER_1}",
+          "&7第二名 - {RACE_RANK_PLAYER_2}",
+          "&6第三名 - {RACE_RANK_PLAYER_3}",
+          "你的排名: {SELF_RACE_RANK_PLAYER}",
+          "",
+          "检查点: &6{SELF_CPS}/{MAX_CPS}",
+          "圈数: &6{SELF_LAPS}/{MAX_LAPS}",
+          "",
+          "{LINK}"
+        ]
+      }
+    }
+  },
+  "GrandPrix": {
+    "perState": {
+      "HOST_BETWEENROUND": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "下一张地图: {CURRENT_MAP}",
+          "{CURRENT_MAP_DIFFICULTY}",
+          "&6全服纪录保持者: {SELF_MAP_PB}",
+          "",
+          "&e第一名 - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
+          "&7第二名 - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
+          "&6第三名 - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
+          "你的排名: {SELF_RANK_PLAYER}",
+          "你的分数: {SELF_RANK_PLAYER_SCORE}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "WAITING": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&f地图: {CURRENT_MAP}",
+          "&f模式: &a大奖赛",
+          "回合: 1/{MAX_ROUND}",
+          "",
+          "&c需要{NEEDED_PLAYER}位玩家才能开始",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_WAITING": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&f地图: {CURRENT_MAP}",
+          "&f模式: &a大奖赛",
+          "回合: 1/{MAX_ROUND}",
+          "",
+          "房间: {HOST}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "SPECTATOR_FINISHED": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "&e第一名 - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
+          "&7第二名 - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
+          "&6第三名 - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
+          "&f第四名 - {RANK_PLAYER_4} - {RANK_PLAYER_4_SCORE}",
+          "&f第五名 - {RANK_PLAYER_5} - {RANK_PLAYER_5_SCORE}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "FINISHED": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "&e第一名 - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
+          "&7第二名 - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
+          "&6第三名 - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
+          "你的排名: {SELF_RANK_PLAYER}",
+          "你的分数: {SELF_RANK_PLAYER_SCORE}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_SPECTATOR": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "剩余时间: &c{TIME_LEFT}",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "回合: {CURRENT_ROUND}/{MAX_ROUND}",
+          "",
+          "&e第一名 - {RACE_RANK_PLAYER_1}",
+          "&7第二名 - {RACE_RANK_PLAYER_2}",
+          "&6第三名 - {RACE_RANK_PLAYER_3}",
+          "&f第四名 - {RACE_RANK_PLAYER_4}",
+          "&f第五名 - {RACE_RANK_PLAYER_5}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_STARTING": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&f地图: {CURRENT_MAP}",
+          "&f模式: &a大奖赛",
+          "回合: 1/{MAX_ROUND}",
+          "",
+          "房间: {HOST}",
+          "&c{STARTING_COUNTDOWN}秒后开始",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_SPECTATOR_FINISHED": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "&e第一名 - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
+          "&7第二名 - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
+          "&6第三名 - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
+          "&f第四名 - {RANK_PLAYER_4} - {RANK_PLAYER_4_SCORE}",
+          "&f第五名 - {RANK_PLAYER_5} - {RANK_PLAYER_5_SCORE}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "BETWEENROUND": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "下一张地图: {CURRENT_MAP}",
+          "{CURRENT_MAP_DIFFICULTY}",
+          "&6全服纪录保持者: {SELF_MAP_PB}",
+          "",
+          "&e第一名 - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
+          "&7第二名 - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
+          "&6第三名 - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
+          "你的排名: {SELF_RANK_PLAYER}",
+          "你的分数: {SELF_RANK_PLAYER_SCORE}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "SPECTATOR": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "剩余时间: &c{TIME_LEFT}",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "回合: {CURRENT_ROUND}/{MAX_ROUND}",
+          "",
+          "&e第一名 - {RACE_RANK_PLAYER_1}",
+          "&7第二名 - {RACE_RANK_PLAYER_2}",
+          "&6第三名 - {RACE_RANK_PLAYER_3}",
+          "&f第四名 - {RACE_RANK_PLAYER_4}",
+          "&f第五名 - {RACE_RANK_PLAYER_5}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "STARTING": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "&f地图: {CURRENT_MAP}",
+          "&f模式: &a大奖赛",
+          "回合: 1/{MAX_ROUND}",
+          "",
+          "&c{STARTING_COUNTDOWN}秒后开始",
+          "",
+          "{LINK}"
+        ]
+      },
+      "STARTED": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "剩余时间: &c{TIME_LEFT}",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "回合: {CURRENT_ROUND}/{MAX_ROUND}",
+          "",
+          "&e第一名 - {RACE_RANK_PLAYER_1}",
+          "&7第二名 - {RACE_RANK_PLAYER_2}",
+          "&6第三名 - {RACE_RANK_PLAYER_3}",
+          "你的排名: {SELF_RACE_RANK_PLAYER}",
+          "",
+          "检查点: &6{SELF_CPS}/{MAX_CPS}",
+          "圈数: &6{SELF_LAPS}/{MAX_LAPS}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_FINISHED": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "&e第一名 - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
+          "&7第二名 - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
+          "&6第三名 - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
+          "你的排名: {SELF_RANK_PLAYER}",
+          "你的分数: {SELF_RANK_PLAYER_SCORE}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "SPECTATOR_BETWEENROUND": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "下一张地图: {CURRENT_MAP}",
+          "{CURRENT_MAP_DIFFICULTY}",
+          "&6全服纪录保持者: {SELF_MAP_PB}",
+          "",
+          "&e第一名 - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
+          "&7第二名 - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
+          "&6第三名 - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
+          "&f第四名 - {RANK_PLAYER_4} - {RANK_PLAYER_4_SCORE}",
+          "&f第五名 - {RANK_PLAYER_5} - {RANK_PLAYER_5_SCORE}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_SPECTATOR_BETWEENROUND": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "下一张地图: {CURRENT_MAP}",
+          "{CURRENT_MAP_DIFFICULTY}",
+          "&6全服纪录保持者: {SELF_MAP_PB}",
+          "",
+          "&e第一名 - {RANK_PLAYER_1} - {RANK_PLAYER_1_SCORE}",
+          "&7第二名 - {RANK_PLAYER_2} - {RANK_PLAYER_2_SCORE}",
+          "&6第三名 - {RANK_PLAYER_3} - {RANK_PLAYER_3_SCORE}",
+          "&f第四名 - {RANK_PLAYER_4} - {RANK_PLAYER_4_SCORE}",
+          "&f第五名 - {RANK_PLAYER_5} - {RANK_PLAYER_5_SCORE}",
+          "",
+          "{LINK}"
+        ]
+      },
+      "HOST_STARTED": {
+        "title": "{HOST_NAME}",
+        "lines": [
+          "",
+          "剩余时间: &c{TIME_LEFT}",
+          "&f玩家: {CURRENT_PLAYER}/{MAX_PLAYER}",
+          "回合: {CURRENT_ROUND}/{MAX_ROUND}",
+          "",
+          "&e第一名 - {RACE_RANK_PLAYER_1}",
+          "&7第二名 - {RACE_RANK_PLAYER_2}",
+          "&6第三名 - {RACE_RANK_PLAYER_3}",
+          "你的排名: {SELF_RACE_RANK_PLAYER}",
+          "",
+          "检查点: &6{SELF_CPS}/{MAX_CPS}",
+          "圈数: &6{SELF_LAPS}/{MAX_LAPS}",
+          "",
+          "{LINK}"
+        ]
+      }
+    }
+  },
+  "Training": {
+    "perState": {
+      "TRAINING": {
+        "title": "鞘翅竞速",
+        "lines": [
+          "",
+          "&6个人成绩: {SELF_MAP_PB}",
+          "&f排名: {SELF_MAP_RANK}",
+          "",
+          "全服纪录保持者: {MAP_WR_PLAYER}",
+          "&6时间: &c{MAP_WR_TIME}",
+          "",
+          "剩余时间: &c{TIME_LEFT}",
+          "&f难度: {CURRENT_MAP_DIFFICULTY}",
+          "检查点: &6{SELF_CPS}/{MAX_CPS}",
+          "圈数: &6{SELF_LAPS}/{MAX_LAPS}",
+          "",
+          "{LINK}"
+        ]
+      }
+    }
+  }
+}

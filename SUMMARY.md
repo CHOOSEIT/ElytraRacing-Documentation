@@ -65,12 +65,12 @@
 ## Config translated version
 
 * [😀 Translate ElytraRacing](config-translated-version/translate-elytraracing.md)
-* [🇬🇧 English](config-translated-version/english.md)
+* [🇨🇳 Chinese](config-translated-version/chinese.md)
 * [🇰🇷 Korean](config-translated-version/korean.md)
 * [🇪🇸 Spanish](config-translated-version/spanish.md)
 * [🇩🇪 German](config-translated-version/german.md)
 * [🇫🇷 French](config-translated-version/french.md)
-* [🇨🇳 Chinese](config-translated-version/chinese.md)
+* [🇬🇧 English](config-translated-version/english.md)
 
 ## Other
 
