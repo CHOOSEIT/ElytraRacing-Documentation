@@ -8,6 +8,8 @@ description: 'Version: 1.5.3.17'
 Translated by: **jhqwqmc (Discord: jhqwqmc)**\
 File translated: **AdminGUI.json, particuleConfig.json, Config.json, Scoreboard.json**\
 **Plugin version: 1.5.3.17**
+
+_Server: play.gtemc.cn_
 {% endhint %}
 
 _Download the files and rename them as their original names (AdminGUI.json, particuleConfig.json, Config.json, Scoreboard.json)_
