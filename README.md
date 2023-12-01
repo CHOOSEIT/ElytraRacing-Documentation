@@ -6,11 +6,9 @@ coverY: 0
 
 # 👋 General information
 
-## <mark style="color:red;">The project is DISCONTINUED</mark>
+## <mark style="color:red;">December update: Project DISCONTINUED, the source code will be uploaded soon.</mark>
 
-## <mark style="color:red;">The project is DISCONTINUED</mark>
-
-## <mark style="color:red;">The project is DISCONTINUED</mark>
+More information on discord: [https://discord.com/invite/zBuvh7DctP](https://discord.com/invite/zBuvh7DctP)
 
 ## What is ElytraRacing ?
 
