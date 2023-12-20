@@ -6,9 +6,9 @@ coverY: 0
 
 # 👋 General information
 
-## <mark style="color:red;">December update: Project DISCONTINUED, the source code will be soon uploaded.</mark>
+Now free, More information on discord: [https://discord.com/invite/zBuvh7DctP](https://discord.com/invite/zBuvh7DctP)
 
-More information on discord: [https://discord.com/invite/zBuvh7DctP](https://discord.com/invite/zBuvh7DctP)
+Source code: [https://github.com/CHOOSEIT/ElytraRacing](https://github.com/CHOOSEIT/ElytraRacing)
 
 ## What is ElytraRacing ?
 
@@ -31,13 +31,6 @@ ElytraRacing trailer
 
 
 ## <mark style="color:red;">Build-in holograms are no longer available for versions >= 1.19</mark>
-
-## Find the plugin (PREMIUM)
-
-&#x20;**You can find the plugin here:**
-
-* [**https://www.spigotmc.org/resources/%E2%9C%A8elytraracing%E2%9C%A8-custom-elytra-race-1-9-2-1-16-4-%E2%9C%85.85278/**](https://www.spigotmc.org/resources/%E2%9C%A8elytraracing%E2%9C%A8-custom-elytra-race-1-9-2-1-16-4-%E2%9C%85.85278/)
-* [**https://builtbybit.com/resources/elytraracing-elytra-race-mini-game.19110/**](https://builtbybit.com/resources/elytraracing-elytra-race-mini-game.19110/)
 
 Step by Step installation:&#x20;
 
