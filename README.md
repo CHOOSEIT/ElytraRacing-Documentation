@@ -6,13 +6,13 @@ coverY: 0
 
 # 👋 General information
 
-<mark style="color:red;">**Now free, More information on discord:**</mark> [<mark style="color:red;">**https://discord.com/invite/zBuvh7DctP**</mark>](https://discord.com/invite/zBuvh7DctP)
+<mark style="color:red;">**Now free, more information on discord:**</mark> [<mark style="color:red;">**https://discord.com/invite/zBuvh7DctP**</mark>](https://discord.com/invite/zBuvh7DctP)
 
 <mark style="color:red;">**Source code:**</mark> [<mark style="color:red;">**https://github.com/CHOOSEIT/ElytraRacing**</mark>](https://github.com/CHOOSEIT/ElytraRacing)
 
 ## What is ElytraRacing ?
 
-ElytraRacing is a high-quality mini-game Minecraft plugin perfect for every server. It allows you to create and host a game of a set of races. This plugin creates memorable moments and is fun to play while remaining competitive !
+ElytraRacing is a high-quality mini-game Minecraft plugin perfect for every server. It allows you to create and host a game with a set of races. This plugin creates memorable moments and is fun to play while remaining competitive !
 
 **ElytraRacing is the most unique** and advanced plugin with elytras you can find on the market !
 
