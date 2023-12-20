@@ -6,9 +6,9 @@ coverY: 0
 
 # 👋 General information
 
-Now free, More information on discord: [https://discord.com/invite/zBuvh7DctP](https://discord.com/invite/zBuvh7DctP)
+<mark style="color:red;">**Now free, More information on discord:**</mark> [<mark style="color:red;">**https://discord.com/invite/zBuvh7DctP**</mark>](https://discord.com/invite/zBuvh7DctP)
 
-Source code: [https://github.com/CHOOSEIT/ElytraRacing](https://github.com/CHOOSEIT/ElytraRacing)
+<mark style="color:red;">**Source code:**</mark> [<mark style="color:red;">**https://github.com/CHOOSEIT/ElytraRacing**</mark>](https://github.com/CHOOSEIT/ElytraRacing)
 
 ## What is ElytraRacing ?
 
