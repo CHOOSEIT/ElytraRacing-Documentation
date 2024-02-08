@@ -1,7 +1,21 @@
 ---
 description: Here you will learn more information about ElytraRacing and how to use it
-cover: https://imgur.com/aOuvlLh.jpg
-coverY: 0
+cover: .gitbook/assets/ElytraRacing overview (2).jpg
+coverY: 58.68333333333334
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 👋 General information
